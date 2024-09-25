@@ -1,0 +1,106 @@
+"table_name","column_name","description"
+agad_ask_1_7_0_3_3_hasla,id,"liczba porządkowa, klucz podstawowy"
+agad_ask_1_7_0_3_3_hasla,varia,"wypis źródłowy, komentarz"
+agad_ask_1_7_0_3_3_hasla,funkcja,funkcja osoby lub nazwa instytucji
+agad_ask_1_7_0_3_3_hasla,podatek_fl,wartość podatku we florenach
+agad_ask_1_7_0_3_3_hasla,podatek_gr,wartość podatku w groszach
+agad_ask_1_7_0_3_3_hasla,podatek_grz,wartość podatku w grzywnach
+agad_ask_1_7_0_3_3_hasla,debita,"informacja o zaległości podatkowej, podatek nie został zapłacony"
+agad_ask_1_7_0_3_3_hasla,miejscowosc,"nazwa miejscowości w brzmieniu źródłowym, nazwa miejscowości wynikająca z kontekstu w nawiasie kwadratowym"
+agad_ask_1_7_0_3_3_hasla,osoba_zrd,imię i (lub) nazwisko osoby w brzmieniu źródłowym
+agad_ask_1_7_0_3_3_hasla,wezwanie,wezwanie kościoła lub beneficjum
+agad_ask_1_7_0_3_3_hasla,rola_osoba,"rola osoby lub instytucji (np. płatnik, były płatnik) "
+agad_ask_1_7_0_3_3_hasla,podatek_fert,wartość podatku w wiardunkach
+agad_ask_1_7_0_3_3_hasla,dekanat,"nazwa dekanatu, zmodernizowana"
+agad_ask_1_7_0_3_91_hasla,id,"liczba porządkowa, klucz podstawowy"
+agad_ask_1_7_0_3_91_hasla,funkcja,funkcja osoby lub nazwa instytucji
+agad_ask_1_7_0_3_91_hasla,podstawa_grz_czysta,podstawa podatku w grzywnach srebra
+agad_ask_1_7_0_3_91_hasla,podstawa_grz_obieg,podstawa podatku w grzywnach obiegowych
+agad_ask_1_7_0_3_91_hasla,podatek_fl,wartość podatku we florenach
+agad_ask_1_7_0_3_91_hasla,podatek_gr,wartość podatku w groszach
+agad_ask_1_7_0_3_91_hasla,podatek_grz,wartość podatku w grzywnach
+agad_ask_1_7_0_3_91_hasla,debita,"informacja o zaległości podatkowej, podatek nie został zapłacony"
+agad_ask_1_7_0_3_91_hasla,varia,"wypis źródłowy, komentarz"
+agad_ask_1_7_0_3_91_hasla,miejscowosc,"nazwa miejscowości w brzmieniu źródłowym, nazwa miejscowości wynikająca z kontekstu w nawiasie kwadratowym"
+agad_ask_1_7_0_3_91_hasla,osoba_zrd,imię i (lub) nazwisko osoby w brzmieniu źródłowym
+agad_ask_1_7_0_3_91_hasla,wezwanie,wezwanie kościoła lub beneficjum
+agad_ask_1_7_0_3_91_hasla,rola_osoba,"rola osoby lub instytucji (np. płatnik, były płatnik) "
+agad_ask_1_7_0_3_91_hasla,podstawa_gr,podstawa podatku w groszach
+agad_ask_1_7_0_3_91_hasla,podstawa_fert,podstawa podatku w wiardunkach
+agad_ask_1_7_0_3_91_hasla,podatek_fert,wartość podatku w wiardunkach
+agad_ask_1_7_0_3_91_hasla,dekanat,"nazwa dekanatu, zmodernizowana"
+hasla,id,"liczba porządkowa, klucz podstawowy"
+hasla,hasla_3_id,klucz obcy do agad_ask_1_7_0_3_3_hasla.id
+hasla,hasla_91_id,klucz obcy do agad_ask_1_7_0_3_91_hasla.id
+indeksy,id,"liczba porządkowa, klucz podstawowy"
+indeksy,slownik_id,"identyfikator hasła indeksowego osób, miejsc i instytucji, odpowiada wartościom w tabelach słownikowych: instytucje.instytucja_id, miejsca.miejsce_id, osoby.osoba_id"
+indeksy,typ,"typ hasła indeksowego: osoba, instytucja, miejsce"
+indeksy,haslo_id,"identyfikator hasła źródłowego, klucz obcy do hasla.id"
+indeksy,komentarz,"komentarz dotyczący identyfikacji osób, miejsc lub instytucji"
+instytucje,instytucja_id,"liczba porządkowa, klucz podstawowy"
+instytucje,typ,"typ instytucji, np. plebania, altaria, kapituła katedralna"
+instytucje,lokalizacja,"lokalizacja instytucji, klucz obcy do miejsca.miejsce_id"
+instytucje,wikikul_id,identyfikator w bazie wiedzy wiki.kul.pl
+miejsca,miejsce_id,"liczba porządkowa, klucz podstawowy"
+miejsca,kategoria,"kategoria generalna miejsca (jednostka, miejsce, obiekt)"
+miejsca,nazwa,"nazwa miejscowości, zmodernizowana, w brzmieniu z XVI wieku"
+miejsca,wezwanie,"wezwanie parafii lub kościoła w okresie nowożytnym, na podstawie danych badawczych Ośrodka Badań nad Geografią Historyczną Kościoła w Polsce KUL (http://geo-ecclesiae.kul.pl/)"
+miejsca,typ,"typ szczegółowy miejsca (np. dekanat, kościół filialny, parafia)"
+miejsca,kul_ob,identyfikator parafii lub kościoła w danych badawczych Ośrodka Badań nad Geografią Historyczną Kościoła w Polsce KUL (http://geo-ecclesiae.kul.pl/)
+miejsca,komentarz,komentarz dotyczący miejsc
+miejsca,wikikul_id,identyfikator w bazie wiedzy wiki.kul.pl
+osoby,osoba_id,"liczba porządkowa, klucz podstawowy"
+osoby,imie,imię zmodernizowane
+osoby,nazwisko,nazwisko zmodernizowane
+osoby,funkcje,nazwa i miejsce funkcji
+osoby,komentarz,komentarz dotyczący osób
+osoby,wikikul_id,identyfikator w bazie wiedzy wiki.kul.pl
+indeks_1561,numer hasła,"identyfikator hasła (hasla.id, indeksy.haslo_id)"
+indeks_1561,typ hasła,"typ hasła indeksowego: osoba, instytucja, miejsce (indeksy.typ)"
+indeks_1561,ASKI3: miejscowość,"nazwa miejscowości w brzmieniu źródłowym w rękopisie ASK 1/7/0/3/3, nazwa miejscowości wynikająca z kontekstu w nawiasie kwadratowym (agad_ask_1_7_0_3_3_hasla.miejscowosc)"
+indeks_1561,ASKI3: dekanat,"nazwa dekanatu w rękopisie ASK 1/7/0/3/3, zmodernizowana (agad_ask_1_7_0_3_3_hasla.dekanat)"
+indeks_1561,ASKI3: osoba,"imię i (lub) nazwisko osoby w rękopisie ASK 1/7/0/3/3, w brzmieniu źródłowym (agad_ask_1_7_0_3_3_hasla.osoba_zrd)"
+indeks_1561,ASKI3: funkcja,funkcja osoby lub nazwa instytucji w rękopisie ASK 1/7/0/3/3 (agad_ask_1_7_0_3_3_hasla.funkcja)
+indeks_1561,ASKI3: rola,"rola osoby lub instytucji (np. płatnik, były płatnik) w rękopisie ASK 1/7/0/3/3 (agad_ask_1_7_0_3_3_hasla.rola_osoba)"
+indeks_1561,ASKI3: podatek (grzywny),wartość podatku w grzywnach w rękopisie ASK 1/7/0/3/3 (agad_ask_1_7_0_3_3_hasla.podatek_grz)
+indeks_1561,ASKI3: podatek (floreny),wartość podatku we florenach w rękopisie ASK 1/7/0/3/3 (agad_ask_1_7_0_3_3_hasla.podatek_fl)
+indeks_1561,ASKI3: podatek (wiardunek),wartość podatku w wiardunkach w rękopisie ASK 1/7/0/3/3 (agad_ask_1_7_0_3_3_hasla.podatek_fert)
+indeks_1561,ASKI3: podatek (grosze),wartość podatku w groszach w rękopisie ASK 1/7/0/3/3 (agad_ask_1_7_0_3_3_hasla.podatek_gr)
+indeks_1561,ASKI3: zaległość,"informacja o zaległości podatkowej, podatek nie został zapłacony w rękopisie ASK 1/7/0/3/3 (agad_ask_1_7_0_3_3_hasla.debita)"
+indeks_1561,ASKI3: uwagi,"wypis źródłowy, komentarz w rękopisie ASK 1/7/0/3/3 (agad_ask_1_7_0_3_3_hasla.varia)"
+indeks_1561,ASKI91: miejscowość,"nazwa miejscowości w brzmieniu źródłowym w rękopisie ASK 1/7/0/3/91, nazwa miejscowości wynikająca z kontekstu w nawiasie kwadratowym (agad_ask_1_7_0_3_91_hasla.miejscowosc)"
+indeks_1561,ASKI91: dekanat,"nazwa dekanatu w rękopisie ASK 1/7/0/3/91, zmodernizowana (agad_ask_1_7_0_3_91_hasla.dekanat)"
+indeks_1561,ASKI91: osoba,"imię i (lub) nazwisko osoby w rękopisie ASK 1/7/0/3/91, w brzmieniu źródłowym (agad_ask_1_7_0_3_91_hasla.osoba_zrd)"
+indeks_1561,ASKI91: funkcja,funkcja osoby lub nazwa instytucji w rękopisie ASK 1/7/0/3/91 (agad_ask_1_7_0_3_91_hasla.funkcja)
+indeks_1561,ASKI91: rola,"rola osoby lub instytucji (np. płatnik, były płatnik) w rękopisie ASK 1/7/0/3/91 (agad_ask_1_7_0_3_91_hasla.rola_osoba)"
+indeks_1561,ASKI91: podstawa podatku (grzywna czysta),podstawa podatku w grzywnach srebra w rękopisie ASK 1/7/0/3/91 (agad_ask_1_7_0_3_91_hasla.podstawa_grz_czysta)
+indeks_1561,ASKI91: podstawa podatku (grzywna obiegowa),podstawa podatku w grzywnach obiegowych w rękopisie ASK 1/7/0/3/91 (agad_ask_1_7_0_3_91_hasla.podstawa_grz_obieg)
+indeks_1561,ASKI91: podstawa podatku (wiardunek),podstawa podatku w wiardunkach w rękopisie ASK 1/7/0/3/91 (agad_ask_1_7_0_3_91_hasla.podstawa_fert)
+indeks_1561,ASKI91: podstawa podatku (grosze),podstawa podatku w groszach w rękopisie ASK 1/7/0/3/91 (agad_ask_1_7_0_3_91_hasla.podstawa_gr)
+indeks_1561,ASKI91: podatek (grzywny),wartość podatku w grzywnach w rękopisie ASK 1/7/0/3/91 (agad_ask_1_7_0_3_91_hasla.podatek_grz)
+indeks_1561,ASKI91: podatek (floreny),wartość podatku we florenach w rękopisie ASK 1/7/0/3/91 (agad_ask_1_7_0_3_91_hasla.podatek_fl)
+indeks_1561,ASKI91: podatek (wiardunek),wartość podatku w wiardunkach w rękopisie ASK 1/7/0/3/91 (agad_ask_1_7_0_3_91_hasla.podatek_fert)
+indeks_1561,ASKI91: podatek (grosze),wartość podatku w groszach w rękopisie ASK 1/7/0/3/91 (agad_ask_1_7_0_3_91_hasla.podatek_gr)
+indeks_1561,ASKI91: zaległość,"informacja o zaległości podatkowej, podatek nie został zapłacony w rękopisie ASK 1/7/0/3/91 (agad_ask_1_7_0_3_91_hasla.debita)"
+indeks_1561,ASKI91: uwagi,"wypis źródłowy, komentarz w rękopisie ASK 1/7/0/3/91 (agad_ask_1_7_0_3_91_hasla.varia)"
+indeks_1561,imię,imię zmodernizowane (osoby.imie)
+indeks_1561,nazwisko,nazwisko zmodernizowane (osoby.nazwisko)
+indeks_1561,funkcje,nazwa i miejsce funkcji (osoby.funkcje)
+indeks_1561,nazwa miejsca,"nazwa miejscowości, zmodernizowana, w brzmieniu z XVI wieku (miejsca.nazwa)"
+indeks_1561,kategoria miejsca,"kategoria generalna miejsca (jednostka, miejsce, obiekt) (miejsca.kategoria)"
+indeks_1561,typ miejsca,"typ szczegółowy miejsca (np. dekanat, kościół filialny, parafia) (miejsca.typ)"
+indeks_1561,wezwanie kościoła,"wezwanie parafii lub kościoła w okresie nowożytnym, na podstawie danych badawczych Ośrodka Badań nad Geografią Historyczną Kościoła w Polsce KUL (http://geo-ecclesiae.kul.pl/) (miejsca.wezwanie)"
+indeks_1561,typ instytucji,"typ instytucji, np. plebania, altaria, kapituła katedralna (instytucje.typ)"
+indeks_1561,komentarz do miejsca,komentarz dotyczący miejsc (miejsca.komentarz)
+indeks_1561,komentarz do osoby,komentarz dotyczący osób (osoby.komentarz)
+indeks_1561,komentarz do identyfikacji,"komentarz dotyczący identyfikacji osób, miejsc lub instytucji (indeksy.komentarz)"
+indeks_1561,id,"liczba porządkowa, klucz podstawowy (indeksy.id)"
+indeks_1561,slownik_id,"identyfikator hasła indeksowego osób, miejsc i instytucji, odpowiada wartościom w tabelach słownikowych: instytucje.instytucja_id, miejsca.miejsce_id, osoby.osoba_id (indeksy.slownik_id)"
+indeks_1561,typ,"typ hasła indeksowego: osoba, instytucja, miejsce (indeksy.typ)"
+indeks_1561,haslo_id,"identyfikator hasła źródłowego (hasla.id, indeksy.haslo_id)"
+indeks_1561,hasla_3_id,"identyfikator hasła źródłowego w rękopisie ASK 1/7/0/3/3 (agad_ask_1_7_0_3_3_hasla.id, hasla.hasla_3_id)"
+indeks_1561,hasla_91_id,"identyfikator hasła źródłowego w rękopisie ASK 1/7/0/3/91 (agad_ask_1_7_0_3_91_hasla.id, hasla.hasla_91_id)"
+indeks_1561,kul_ob,identyfikator parafii lub kościoła w danych badawczych Ośrodka Badań nad Geografią Historyczną Kościoła w Polsce KUL (http://geo-ecclesiae.kul.pl/) (miejsca.kul_ob)
+indeks_1561,wikikul instytucja,identyfikator w bazie wiedzy wiki.kul.pl (instytucje.wikikul_id)
+indeks_1561,wikikul miejsce,identyfikator w bazie wiedzy wiki.kul.pl (miejsca.wikikul_id)
+indeks_1561,wikikul osoba,identyfikator w bazie wiedzy wiki.kul.pl (osoby.wikikul_id)

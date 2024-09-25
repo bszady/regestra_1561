@@ -1,0 +1,942 @@
+"id","funkcja","podstawa_grz_czysta","podstawa_grz_obieg","podatek_fl","podatek_gr","podatek_grz","debita","varia","miejscowosc","osoba_zrd","wezwanie","rola_osoba","podstawa_gr","podstawa_fert","podatek_fert","dekanat"
+884,[właściciel uposażenia],,,,,,,Miedzichod per dominum Iacobum Ostrorog,Miedzichod,Iacobus Ostrorog,,właściciel uposażenia,,,,Wronki
+279,kolegium altarzystów,,,,,,,Altaristae in Pysdri,Pysdri,,,,,,,Pyzdry
+487,kolegium altarzystów,,,,,,,Altaristae ibidem in Strzelcze,Strzelcze,,,,,,,Śrem
+455,kolegium altarzystów,,,,,,,Altaristae ibidem,Srzem,,,,,,,Śrem
+257,kolegium altarzystów,,,,,,,Altaristae in Costrzin,Costrzin,,,,,,,Poznań
+338,kapituła kolegiacka,,,,,,,Collegium Szamotuli,Szamotuli,,,,,,,Oborniki
+479,kolegium altarzystów,,,,,,,Altaristae ibidem in Gostin,Gostin,,,,,,,Śrem
+974,[właściciel uposażenia],,,,,,,"Gabriel Ridzinski. Grossi quatuor dimissi, quia census per dominum Stanislaum Ridzinski tres marcarum non solvuntur",[Posnania],Stanislaw Ridzinski,,właściciel uposażenia,,,,
+471,kolegium altarzystów,,,,,,,Altariste ibidem,Krziwin,,,,,,,Śrem
+499,kolegium altarzystów,,,,,,,Altaristae ibidem,Poniecz,,,,,,,Śrem
+517,kolegium altarzystów,,,,,,,Altaristae ibidem,Dolsko,,,,,,,Śrem
+975,[wieś uposażeniowa],,,,,,,"Ioannes Piwo corporali iuramento deposuit, quod census in Ossieczna marcae sex dominus Andreas a Gorca ab annis sex occupavit, nec quicqu[am?] illi persolvit; [brak potwierdzenia wpłaty]; [funkcja na podstawie nagłówka w rękopisie A: «Ad sanctum Stanislaum in Posnania praebendarii»]",Ossieczna,,,,,,,
+216,kolegium altarzystów,,,,,,,Altaristae sancti Stanislai,[Posnania],,św. Stanisław,,,,,
+208,kolegium altarzystów kolegiackich,,,,,,,Altaristae eiusdem ecclesiae,Posnania,,św. Maria Magdalena,,,,,
+205,kapituła kolegiacka,,,,,,,Collegium sancti Nicolai,[Posnania],,św. Mikołaj,,,,,
+209,kolegium prebendarzy,,,,,,,Collegium sancti Stanislai in Posnania; [funkcja na podstawie nagłówka w rękopisie A: «Ad sanctum Stanislaum in Posnania praebendarii»],Posnania,,św. Stanisław,,,,,
+204,kolegium altarzystów kolegiackich,,,,,,,Altaristae ibidem,Summum Posnaniense,,św. Maria,,,,,
+206,kolegium altarzystów kolegiackich,,,,,,,Altaristae ibidem,[Posnania],,św. Mikołaj,,,,,
+227,kolegium altarzystów,,,,,,,Altaristae sanctae Gertrudis,[Posnania],,św. Gertruda,,,,,
+233,kolegium altarzystów,,,,,,,Altaristae in eadem ecclesia,[Posnania],,św. Marcin,,,,,
+220,kolegium altarzystów,,,,,,,Altaristae ad Omnes Sanctos,[Posnania],,Wszyscy Św.,,,,,
+286,altarzysta kolegium,,,,15,,,,Pysdri,Paulus a Richwal,,płatnik,,,,Pyzdry
+203,kapituła kolegiacka,,,,,,,Collegium sanctae Mariae in Summo Posnaniensi,Summum Posnaniense,,św. Maria,były płatnik,,,,
+290,altarzysta kolegium,,,,15,,tak,,Pysdri,Ioannes Thomiczki,,płatnik,,,,Pyzdry
+299,[pleban],,,,12,,,,Bieganowo,,,płatnik,,,,Pyzdry
+317,kolegium altarzystów,,,,,,,Altaristae ibidem,Oborniki,,,,,,,Oborniki
+86,altarzysta katedralny,,,,26,,,"Gabriel Ridzinski. Grossi quatuor dimissi, quia census per dominum Stanislaum Ridzinski tres marcarum non solvuntur",Posnaniensis,Gabriel Ridzinski,,płatnik,,,,
+243,kolegium mansjonarzy,,,,,,,Mansionarii in eadem ecclesia Bninensi,Bninensis,,,,,,,Poznań
+552,kolegium altarzystów,,,,,,,Altaristae ibidem,Costan,,,,,,,Kościan
+591,kolegium altarzystów,,,,,,,Altaristae in Ossieczna,Ossieczna,,,,,,,Kościan
+604,kolegium altarzystów,,,,,,,Altaristae ibidem,Smigiel,,,,,,,Kościan
+697,kolegium altarzystów,,,,,,,Debita in eisdem,Dolsko,,,,,,,Śrem
+679,kolegium mansjonarzy,,,,,,,Mansionarii in Cosmin,Cosmin,,,,,,,Nowe Miasto
+683,kapituła kolegiacka,,,,,,,Debita in eisdem,Summum Posnaniense,,św. Maria,,,,,
+681,kapituła katedralna,,,,,,,Debita in eisdem,Posnaniensis,,,,,,,
+685,kolegium altarzystów kolegiackich,,,,,,,Debita in eisdem,Posnania,,św. Maria Magdalena,,,,,
+686,kolegium altarzystów,,,,,,,Debita in eisdem,[Posnania],,Wszyscy Św.,,,,,
+690,kolegium altarzystów,,,,,,,Debita in eisdem,Oborniki,,,,,,,Oborniki
+684,kapituła kolegiacka,,,,,,,Debita in eisdem,[Posnania],,św. Mikołaj,,,,,
+711,prepozyt szpitalny,,,,,,,Praepositura hospitalis Sancti Spiritus ante Coszmin,Coszmin,,Św. Duch,,,,,Nowe Miasto
+688,kolegium altarzystów,,,,,,,Debita in eisdem altaribus,Pysdri,,,,,,,Pyzdry
+692,kolegium altarzystów kolegiackich,,,,,,,Debita,Szamotuli,,,,,,,Oborniki
+751,kolegium altarzystów,,,,,,,Altaristae ibidem,Swiecziechow,,,,,,,Wschowa
+682,kolegium altarzystów katedralnych,,,,,,,Debita in eisdem,Posnaniensis,,,,,,,
+851,kolegium altarzystów,,,,,,,Altaristae ibidem,Buk,,,,,,,Wronki
+937,kolegium altarzystów kolegiackich,,,,,,,Altaristae ibidem,Srzoda,,,,,,,
+955,kapituła kolegiacka,,,,,,,Debita in eisdem,Srzoda,,,,,,,
+959,kolegium altarzystów kolegiackich,,,,,,,In altaristis debita,Srzoda,,,,,,,
+201,kapituła katedralna,,,,,,,Praelaturae et canonicatus ecclesiae cathedralis Posnaniensis,Posnaniensis,,,były płatnik,,,,
+92,altarzysta katedralny,,,,28,,tak,Post mortem Ioannis Thomiczki,Posnaniensis,Ioannes Thomiczki,,były płatnik,,,,
+642,pleban,,,2,,,,,Nowe Miasto,Georgius Sziplowski,,płatnik,,,,Nowe Miasto
+247,[pleban],,,,24,,,,Radzewo,,,płatnik,,,,Poznań
+105,kanclerz kolegiacki,,,,,,,Custos et cancellarius sunt exempti a contributione regali; [brak sumy i potwierdzenia wpłaty],Summum Posnaniense,,św. Maria,płatnik,,,,
+191,altarzysta kolegiacki,,,,15,,tak,Post mortem Bloczki,Posnania,Bloczki,św. Maria Magdalena,"były płatnik, podatek",,,,
+622,altarzysta kolegium,,,,15,,tak,Comunitas viccariorum post mortem Adriani,Costen,Adrianus,,"były płatnik, podatek",,,,Kościan
+365,pleban,,,,,,,"Praepositura Sancti Spiritus extra Szamothuli. Ambrosius plebanus Co[stensis] a praepositura.
+Grossi sex sunt ei dimissi, quia dominus Biechowski prohibuit suis subditis in villa Kampa fertones ab annis octo persolvere, licet excomunicantur",Costensis,Ambrosius,,posiadacz drugiej parafii,,,,Kościan
+251,[pleban],,,2,,,,,Golthowo,,,płatnik,,,,Poznań
+252,[pleban],,,,,1,,,Grodzisko prope Giecz,,,płatnik,,,,Poznań
+255,[pleban],,,,24,,,,Vrzazowo,,,płatnik,,,,Poznań
+256,[pleban],,,4,,,,,Costrzin,,,płatnik,,,,Poznań
+293,[pleban],,,,12,,,,Czessewo,,,płatnik,,,,Pyzdry
+294,[pleban],,,,12,,,,Vszeborz,,,płatnik,,,,Pyzdry
+296,[pleban],,,,24,,,,Zieliony Damb,,,płatnik,,,,Pyzdry
+297,[pleban],,,,12,,,,Nowa Wies,,,płatnik,,,,Pyzdry
+258,altarzysta kolegium,,,,20,,,Iacobus praepositus hospitalis cui altare unitum est; [zapewne wpłata od dwóch beneficjów],Costrzin,Iacobus,,płatnik,,,,Poznań
+259,altarzysta kolegium,,,,10,,,,Costrzin,Laurentius,,płatnik,,,,Poznań
+265,[pleban],,,2,,,,,Soliecz,,,płatnik,,,,Poznań
+266,[pleban],,,,12,,,,Siekierki,,,płatnik,,,,Poznań
+271,[pleban],,,2,,,,,Gluszina,,,płatnik,,,,Poznań
+272,[pleban],,,2,,,tak,,Crirowo,,,płatnik,,,,Poznań
+498,[parafia],,,,,,,,Poniecz,,,,,,,Śrem
+273,altarzysta,,,,16,,tak,Ibidem altarista,Crirowo,,,płatnik,,,,Poznań
+274,[pleban],,,,24,,tak,,Madre,,,płatnik,,,,Poznań
+275,[pleban],,,,12,,tak,,Kossuty,,,płatnik,,,,Poznań
+413,[pleban],,,2,,,tak,Chodziesz palatini Brzestensis domini Casparis,Chodziesz,,,płatnik,,,,Oborniki
+28,dekanat wiejski,,,,,,,Vronicensis,Vronicensis,,,,,,,
+14,dekanat wiejski,,,,,,,Pysdrensis,Pysdrensis,,,,,,,
+24,dekanat wiejski,,,,,,,Costensis,Costensis,,,,,,,
+29,dekanat wiejski,,,,,,,Miedzirzecensis,Miedzirzecensis,,,,,,,
+379,[pleban],,,2,,,,,Kiekrz,,,płatnik,,,,Oborniki
+32,prepozyt katedralny,10,70,8,,,,Praepositus. Adam Conarski praepositus. Proventus extendunt se ad marcas centum octo usuales grossos octo. Moderatio facta ad marcas septuaginta,Posnaniensis,Adam Conarski,,płatnik,,,,
+33,dziekan katedralny,10,54,8,,,,Decanus. Dominus Andreas Przeczlawski. Summa proventum [s] extendunt [s] se ad marcas quinquaginta quatuor usuales,Posnaniensis,Andreas Przeczlawski,,płatnik,,,,
+52,[kanonik katedralny],,,2,,,,,Posnaniensis,Petrus Cuneczki,,płatnik,,,,
+123,altarzysta kolegiacki,,,,27,,,,Summum Posnaniense,Ioannes Skrzethussewski,św. Maria,płatnik,,,,
+124,altarzysta kolegiacki,,,,24,,,,Summum Posnaniense,Sebastianus a Kxiasz,św. Maria,płatnik,,,,
+109,"[kanonik kolegiacki], magister",,,,24,,,,Summum Posnaniense,Albertus,św. Maria,płatnik,,,,
+141,[kanonik kolegiacki],,,,24,,,,Posnania,Laurentius Cziganek,św. Maria Magdalena,płatnik,,,,
+168,altarzysta kolegiacki,,,,12,,,,Posnania,Petrus Comorniki,św. Maria Magdalena,płatnik,,,,
+169,altarzysta kolegiacki,,,,15,,,,Posnania,Caspar,św. Maria Magdalena,płatnik,,,,
+196,altarzysta kolegiacki,,,,11,,tak,,Posnania,Laurentius Vagrowiecz,św. Maria Magdalena,płatnik,,,,
+197,altarzysta kolegiacki,,,,8,,tak,,Posnania,Albertus a Cosmin,św. Maria Magdalena,płatnik,,,,
+234,altarzysta kolegium,,,,16,,,Gregorius atlarista,[Posnania],Gregorius,św. Marcin,płatnik,,,,
+239,[pleban],,,2,,,,,Swarzadz,,,płatnik,,,,Poznań
+492,kolegium altarzystów,,,,,,,Altaristae ibidem,Crobia,,,,,,,Śrem
+360,altarzysta kolegiacki,,,,,,,Mathias Napora in loco Ioannis Iakiet,Szamotuli,Ioannes Iakiet,,były płatnik,,,,Oborniki
+452,[pleban],,,,20,,tak,Thomicze vaccat,Thomicze,,,płatnik,,,,Stęszew
+509,altarzysta,,,,15,,,,Zitowieczko,Martinus,,płatnik,,,,Śrem
+510,[pleban],,,2,,,,,Domachowo,,,płatnik,,,,Śrem
+519,"altarzysta kolegium, organista",,,,15,,,Iacobus organista,Dolsko,Iacobus,,płatnik,,,,Śrem
+533,altarzysta,,,,6,,,Daniel altarista; [wiersz poniżej wpisu: Gorca cum Sabelkowo],Gorca,Daniel,,płatnik,,,,Śrem
+453,[dekanat wiejski],,,,,,,Decanatus Srzemensis,Srzem,,,,,,,Śrem
+456,altarzysta kolegium,,,,24,,,,Srzem,Martinus Psarski,,płatnik,,,,Śrem
+458,altarzysta kolegium,,,,24,,,,Srzem,Ioannes a Chodziesz,,płatnik,,,,Śrem
+575,altarzysta kolegium,,,,20,,,Symon plebanus in Ridzina,Costan,Symon,,płatnik,,,,Kościan
+577,altarzysta kolegium,,,,18,,,,Costan,Stanislaus de Costen,,płatnik,,,,Kościan
+603,[parafia],,,,,,,,Smigiel,,,,,,,Kościan
+616,[pleban],,,,,1,,,Czerwoni Koscziol,,,płatnik,,,,Kościan
+617,[pleban],,,,18,,,,Przewoz,,,płatnik,,,,Kościan
+620,[pleban],,,2,,,,,Przemeth,,św. Andrzej,płatnik,,,,Kościan
+629,[pleban],,,,24,,tak,,Radomiczko,,,płatnik,,,,Kościan
+554,altarzysta kolegium,,,,16,,,,Costan,Mathias Longaiek,,płatnik,,,,Kościan
+649,kolegium altarzystów,,,,,,,Altaristae ibidem,Iaroczin,,,,,,,Nowe Miasto
+643,kolegium altarzystów,,,,,,,Altaristae ibidem,Nowe Miasto,,,,,,,Nowe Miasto
+635,[pleban],,,,24,,tak,,Bogussino,,,płatnik,,,,Kościan
+691,kapituła kolegiacka,,,,,,,Debita in eisdem,Szamotuli,,,,,,,Oborniki
+698,dekanat wiejski,,,,,,,Debita in eisdem,Srzem,,,,,,,Śrem
+705,kolegium altarzystów,,,,,,,Altaristae ibidem,Cosmin,,,,,,,Nowe Miasto
+727,[pleban],,,,16,,tak,,Lutomia,,,płatnik,,,,Nowe Miasto
+730,[pleban],,,,,1,tak,,Kxiasz,,,płatnik,,,,Nowe Miasto
+732,[pleban],,,,24,,tak,,Noscowo,,,płatnik,,,,Nowe Miasto
+733,[pleban],,,,24,,tak,,Vlosczieiewicze,,,płatnik,,,,Nowe Miasto
+734,altarzysta,,,,15,,tak,Altarista ibidem,Vlosczieiewicze,,,płatnik,,,,Nowe Miasto
+737,[pleban],,,,24,,tak,,Lgowo,,,płatnik,,,,Nowe Miasto
+742,[pleban],,,,16,,tak,,Raszkowo,,,płatnik,,,,Nowe Miasto
+749,pleban,,,,,,,"Altaristae ibidem. Altaristae quondam numero triginta tres in utraque ecclesia, tam parrochiali quam Corporis Christi, quorum proventus proconsul cum consulibus pro se usurpaverunt et nemo ex eis inhabitat. Haereticus pro plebano habetur",Wschowa,,,posiadacz parafii,,,,Wschowa
+647,pleban,,,,,1,,"Iaroczin. Dominus plebanus corporali iuramento dixit, per dominos haeredes villam Boguslaw pulsis incolis in praedium ipsorum conversam, de qua missalia proveniunt ex mansis 24",Iaroczin,,,płatnik,,,,Nowe Miasto
+758,[pleban],,,,24,,tak,,Vlossakowicze,,,płatnik,,,,Wschowa
+759,[pleban],,,,12,,tak,,Przidczina,,,płatnik,,,,Wschowa
+762,[pleban],,,,12,,tak,,Ossowa Szien,,,płatnik,,,,Wschowa
+763,[pleban],,,,12,,tak,,Dlugie,,,płatnik,,,,Wschowa
+764,[pleban],,,,12,,tak,,Lgin,,,płatnik,,,,Wschowa
+756,dekanat wiejski,,,,,,"",Debita in eisdem,Wschowa,,,,,,,Wschowa
+766,[pleban],,,,12,,tak,,Niechlod,,,płatnik,,,,Wschowa
+769,[pleban],,,,12,,tak,,Antiquum Claustrum,,,płatnik,,,,Wschowa
+794,[pleban],,,,,1,,,Opalienicza,,,płatnik,,,,Grodzisko
+760,[pleban],,,,12,,tak,,Vilcowo Almanicale,,,płatnik,,,,Wschowa
+761,altarzysta,,,,24,,tak,Altare ibidem,Vilcowo Almanicale,,,płatnik,,,,Wschowa
+807,dziekan [kolegiacki],,,,20,,tak,,Sbassin,,,płatnik,,,,Grodzisko
+831,altarzysta kolegium,,,,,,,Petrus Masiolek in loco Martini,Lwovek,Martinus,,były płatnik,,,,Wronki
+795,[pleban],,,,24,,,,Docowo,,,płatnik,,,,Grodzisko
+828,altarzysta,,,,24,,,Michael Bidgostia ad sanctam Catherinam altarista,Lwovek,Michael Bidgostia,św. Katarzyna,płatnik,,,,Wronki
+838,[właściciel miejscowości],,,,,,,"Chrzibsko. Missalia, maldrata , ab annis quatuor, de villa Mosczieiewo domini Lwowski, Niemierzewo domini Chelmski, Milno domini Ioannis Milienski, Isdebno domini Szlopanowski, Iablonowo domini Dziewierzewski, Kykowo dominae Kikowska, Srzodka domini Pawlowski, molendinatores, in omnibus istis villis, per haeredes istarum villarum solvere prohibentur",Niemierzewo,Chelmski,,właściciel miejscowości,,,,Wronki
+839,[właściciel miejscowości],,,,,,,"Chrzibsko. Missalia, maldrata , ab annis quatuor, de villa Mosczieiewo domini Lwowski, Niemierzewo domini Chelmski, Milno domini Ioannis Milienski, Isdebno domini Szlopanowski, Iablonowo domini Dziewierzewski, Kykowo dominae Kikowska, Srzodka domini Pawlowski, molendinatores, in omnibus istis villis, per haeredes istarum villarum solvere prohibentur",Milno,Ioannes Milienski,,właściciel miejscowości,,,,Wronki
+842,[właściciel miejscowości],,,,,,,"Chrzibsko. Missalia, maldrata , ab annis quatuor, de villa Mosczieiewo domini Lwowski, Niemierzewo domini Chelmski, Milno domini Ioannis Milienski, Isdebno domini Szlopanowski, Iablonowo domini Dziewierzewski, Kykowo dominae Kikowska, Srzodka domini Pawlowski, molendinatores, in omnibus istis villis, per haeredes istarum villarum solvere prohibentur",Kykowo,Kikowska,,właściciel miejscowości,,,,Wronki
+845,altarzysta,,,,12,,,,Pniewy,Petrus Comorniki,,płatnik,,,,Wronki
+849,[pleban],,,,12,,,,Vierzbno,,,płatnik,,,,Wronki
+846,[pleban],,,2,,,,,Vronki,,,płatnik,,,,Wronki
+823,[pleban],,,4,,,,,Brodi,,,płatnik,,,,Wronki
+875,[pleban],,,,12,,tak,,Lascze,,,płatnik,,,,Wronki
+879,[pleban],,,2,,,tak,Pniewy per dominum Sthephanum palatinum  Brzestensem,Pniewy,,,płatnik,,,,Wronki
+883,[pleban],,,,24,,tak,Miedzichod per dominum Iacobum Ostrorog,Miedzichod,,,płatnik,,,,Wronki
+892,"starosta międzyrzecki, kasztelanowa santocka. [właściciel uposażenia]",,,,,,,"Trcziel. Plebanus duodecim grossos solvit, grossi 12 dimissi. Idem plebanus medio corporali iuramento praestito dixit, quod decimam de praedio Trzcziel, missalia de molendino Mitrega, ac decimam de Miloslaw domini Lwosczi capitaneus Miedzirzecensis et castellana Santocensis pro se usurpant",Mitrega,Lwosczi,,właściciel uposażenia,,,,Międzyrzecz
+891,"starosta międzyrzecki, kasztelanowa santocka, [właściciel uposażenia]",,,,,,,"Trcziel. Plebanus duodecim grossos solvit, grossi 12 dimissi. Idem plebanus medio corporali iuramento praestito dixit, quod decimam de praedio Trzcziel, missalia de molendino Mitrega, ac decimam de Miloslaw domini Lwosczi capitaneus Miedzirzecensis et castellana Santocensis pro se usurpant",Trzcziel,Lwosczi,,właściciel uposażenia,,,,Międzyrzecz
+905,[pleban],,,,,1,tak,,Squirzina,,,płatnik,,,,Międzyrzecz
+911,[pleban],,,,12,,tak,,Valkenfalde,,,płatnik,,,,Międzyrzecz
+893,"starosta międzyrzecki, kasztelanowa santocka, [właściciel uposażenia]",,,,,,,"Trcziel. Plebanus duodecim grossos solvit, grossi 12 dimissi. Idem plebanus medio corporali iuramento praestito dixit, quod decimam de praedio Trzcziel, missalia de molendino Mitrega, ac decimam de Miloslaw domini Lwosczi capitaneus Miedzirzecensis et castellana Santocensis pro se usurpant",Miloslaw,Lwosczi,,właściciel uposażenia,,,,Międzyrzecz
+897,altarzysta,,,,16,,,,Trcziel,Stanislaus Choynicza,,płatnik,,,,Międzyrzecz
+906,altarzysta kolegium,,,,,,tak,Altaristae duo in Squirzina desolati,Squirzina,,,płatnik,,,,Międzyrzecz
+938,altarzysta kolegiacki,,,,9,,,,Srzoda,Stanislaus de Zerkow,,płatnik,,,,
+890,pleban,,,,12,,,"Trcziel. Plebanus duodecim grossos solvit, grossi 12 dimissi. Idem plebanus medio corporali iuramento praestito dixit, quod decimam de praedio Trzcziel, missalia de molendino Mitrega, ac decimam de Miloslaw domini Lwosczi capitaneus Miedzirzecensis et castellana Santocensis pro se usurpant",Trcziel,,,płatnik,,,,Międzyrzecz
+945,altarzysta kolegiacki,,,,16,,,,Srzoda,Ioannes Razek,,płatnik,,,,
+946,altarzysta kolegiacki,,,,18,,,,Srzoda,Thomas de Srzoda,,płatnik,,,,
+948,"altarzysta kolegiacki, kaznodzieja",,,,14,,,Vitus praedicator,Srzoda,Vitus,,płatnik,,,,
+298,[pleban],,,,,2,,,Mieliesna Gorca,,,płatnik,,,,Pyzdry
+302,[pleban],,,2,,,,,Biechowo,,,płatnik,,,,Pyzdry
+970,[właściciel uposażenia],,,,,,,"Mansionarii in sorte domini Lucae de Gorca et Swidwa manuales sunt loco vicariorum qui decantant, et amovibiles, licet annis anteactis quilibet per grossos 24 persolvebant, iuramento corporali dixerunt, omnes census annihilatos esse, vix tertiam partem censuum percipiunt; [brak potwierdzenia wpłaty]",Szamotuli,Luca de Gorca et Swidwa,,właściciel uposażenia,,,,Oborniki
+292,prepozyt,,,,,,tak,Praepositus Sancti Spiritus in Pysdry; [brak sumy podatku],Pysdry,,Św. Duch,płatnik,,,,Pyzdry
+281,altarzysta kolegium,,,,12,,,,Pysdri,Iacobus Kleczko,,płatnik,,,,Pyzdry
+285,altarzysta kolegium,,,,3,,,,Pysdri,Laurentius,,płatnik,,,,Pyzdry
+316,dekanat wiejski,,,,,,,Decanatus Obornicensis,Obornicensis,,,,,,,Oborniki
+310,[pleban],,,,,,tak,,Gosdowo,,,płatnik,,,7,Pyzdry
+295,[pleban],,,,12,,,,Grabowo,,,płatnik,,,,Pyzdry
+531,[pleban],,,,,,,Gorca cum Sabelkowo,Sabelkowo,,,posiadacz drugiej parafii,,,,Śrem
+971,[parafia],,,,,,,,Oborniki,,,,,,,Oborniki
+303,[pleban],,,,12,,,,Sokolniki,,,płatnik,,,,Pyzdry
+306,[pleban],,,2,,,,,Nietrzanowo,,,płatnik,,,,Pyzdry
+307,[pleban],,,,12,,,,Bardo,,,płatnik,,,,Pyzdry
+308,[pleban],,,2,,,tak,,Vinna Gora,,,płatnik,,,,Pyzdry
+309,[pleban],,,,24,,tak,,Romieyki,,,płatnik,,,,Pyzdry
+311,[pleban],,,,,2,tak,,Cziazim,,,płatnik,,,,Pyzdry
+280,altarzysta kolegium,,,,5,,,,Pysdri,Ioannes a Kleczko,,płatnik,,,,Pyzdry
+318,altarzysta kolegium,,,,13,,,,Oborniki,Mathias,,płatnik,,,,Oborniki
+320,altarzysta kolegium,,,,15,,,,Oborniki,Benedictus,,płatnik,,,,Oborniki
+321,altarzysta kolegium,,,,22.5,,,,Oborniki,Iozephus Norek,,płatnik,,,,Oborniki
+322,altarzysta kolegium,,,,12,,,,Oborniki,Thomas,,płatnik,,,,Oborniki
+323,altarzysta kolegium,,,,5,,,,Oborniki,Andreas Kikielko,,płatnik,,,,Oborniki
+325,altarzysta kolegium,,,,9,,tak,,Oborniki,Albertus Pannificum,,płatnik,,,,Oborniki
+277,dekanat wiejski,,,,,,,Decanatus Pysdrensis,Pysdrensis,,,,,,,Pyzdry
+248,[pleban],,,,24,,,,Nekla,,,płatnik,,,,Poznań
+249,[pleban],,,,16,,,,Mieczewo,,,płatnik,,,,Poznań
+250,[pleban],,,2,,,,,Giecz,,,płatnik,,,,Poznań
+253,[pleban],,,,24,,,,Iwno,,,płatnik,,,,Poznań
+254,[pleban],,,,24,,,,Siedliecz,,,płatnik,,,,Poznań
+278,prepozyt,,,,,2,,Pysdry. Florianus Cotwicz praepositus,Pysdry,Florianus Cotwicz,,płatnik,,,,Pyzdry
+284,altarzysta kolegium,,,,12,,,,Pysdri,Mathias a Pobiedziska,,płatnik,,,,Pyzdry
+287,altarzysta kolegium,,,,10,,,,Pysdri,Paulus Vrzesnia,,płatnik,,,,Pyzdry
+415,[pleban],,,,6,,tak,Parkowo domini Grodzieczki,Parkowo,,,płatnik,,,,Oborniki
+319,altarzysta kolegium,,,,14,,,,Oborniki,Laurentius Lacheta,,płatnik,,,,Oborniki
+324,altarzysta kolegium,,,,30,,tak,,Oborniki,Ioannes Qvitemberg,,płatnik,,,,Oborniki
+327,[pleban],,,2,,,,,Radzim,,,płatnik,,,,Oborniki
+328,[pleban],,,,24,,,,Pila,,,płatnik,,,,Oborniki
+359,altarzysta kolegiacki,,,,24,,tak,Mathias Napora in loco Ioannis Iakiet,Szamotuli,Mathias Napora,,płatnik,,,,Oborniki
+390,[pleban],,,2,,,,,Zidowo,,,płatnik,,,,Oborniki
+282,altarzysta kolegium,,,,9,,,,Pysdri,Andreas Kleczewita,,płatnik,,,,Pyzdry
+433,[patron altarii],,,,,,,"Altare  vaccat ab annis duobus, collationis generosi domini Lucae Gulthowski et Annae Oporowska",Sthessewo,Luca Gulthowski,,patron altarii,,,,Stęszew
+444,[właściciel miejscowości],,,,,,,Lodzia plebanus cui decima de Bendlewo per dominum Thomiczki rapitur ab annis decem,Bendlewo,Thomiczki,,właściciel miejscowości,,,,Stęszew
+466,altarzysta kolegium,,,,6,,,,Srzem,Ioannes a Srzem,,płatnik,,,,Śrem
+467,altarzysta kolegium,,,,20,,,,Srzem,Gaiewski,,płatnik,,,,Śrem
+483,[pleban],,,4,,,,,Antiqua Gostin,,,płatnik,,,,Śrem
+486,[pleban],,,4,,,,,Strzelcze,,,płatnik,,,,Śrem
+490,[pleban],,,,24,,,,Kolaczkowicze,,,płatnik,,,,Śrem
+491,[pleban],,,4,,,,,Crobia,,,płatnik,,,,Śrem
+501,altarzysta kolegium,,,,20,,,,Poniecz,Ioannes Iwan,,płatnik,,,,Śrem
+432,altarzysta,,,,15,,,"Altare vaccat ab annis duobus, collationis generosi domini Lucae Gulthowski et Annae Oporowska; [brak potwierdzenia wpłaty]; [altarzysta przy prepozyturze szpitalnej lub przy kościele parafialnym]",Sthessewo,,,płatnik,,,,Stęszew
+421,[właściciel miejscowości],,,,,,"",Parkowo domini Grodzieczki; Ecclesiae per haereticos occupatae,Parkowo,Grodzieczki,,właściciel miejscowości,,,,Oborniki
+326,prepozyt,,,,24,,tak,,Oborniki,,Św. Duch,płatnik,,,,Oborniki
+329,[pleban],,,10,,,,,Rogosno,,,płatnik,,,,Oborniki
+330,altarzysta,,,,17,,,"Altarista ibidem Mathias a Caliss iuramento corporali praestito dixit census in villis Szlomowo et Zaczulthowo, per reverendissimum olim dominum episcopum Cracoviensem Zebrzidowski marcas tres suppressas esse gr. 17; [brak potwierdzenia wpłaty, w rękopisie A: «non soluti»]",Rogosno,Mathias a Caliss,,płatnik,,,,Oborniki
+371,[pleban],,,,12,,,,Borussino,,,płatnik,,,,Oborniki
+391,[pleban],,,,12,,,,Uchorowo,,,płatnik,,,,Oborniki
+68,[kanonik katedralny],,,2,,,,,Posnaniensis,Ioannes Zimlinski,,płatnik,,,,
+361,"altarzysta kolegiacki, bakałarz",,,,20,,tak,Valentinus baccalaureus in loco Martini,Szamotuli,Valentinus,,płatnik,,,,Oborniki
+283,altarzysta kolegium,,,,12,,,,Pysdri,Symon Camieniecz,,płatnik,,,,Pyzdry
+332,[wieś uposażeniowa],,,,,,,"Altarista ibidem Mathias a Caliss iuramento corporali praestito dixit census in villis Szlomowo et Zaczulthowo, per reverendissimum olim dominum episcopum Cracoviensem Zebrzidowski marcas tres suppressas esse gr. 17; [brak potwierdzenia wpłaty, w rękopisie A: «non soluti»]",Zaczulthowo,,,,,,,Oborniki
+392,[pleban],,,,24,,,,Bialezino,,,płatnik,,,,Oborniki
+393,[pleban],,,,24,,,,Kiczino,,,płatnik,,,,Oborniki
+331,[wieś uposażeniowa],,,,,,,"Altarista ibidem Mathias a Caliss iuramento corporali praestito dixit census in villis Szlomowo et Zaczulthowo, per reverendissimum olim dominum episcopum Cracoviensem Zebrzidowski marcas tres suppressas esse gr. 17; [brak potwierdzenia wpłaty, w rękopisie A: «non soluti»]",Szlomowo,,,,,,,Oborniki
+416,"kasztelanowa lądzka, [właściciel uposażenia]",,,,,,,"Skoky. Dimissi sunt grossi triginta, nam fundum et decimas domina castellana Landensis Zeliczki et Nininski medios proventus in decimis occupaverunt, prout corporali iuramento comprobavit",Skoky,,,właściciel uposażenia,,,,Oborniki
+442,[pleban],,,,24,,,,Slup,,,płatnik,,,,Stęszew
+443,pleban,,,,,1,,Lodzia. Plebanus cui decima de Bendlewo per dominum Thomiczki rapitur ab annis decem,Lodzia,,,płatnik,,,,Stęszew
+468,altarzysta kolegium,,,,17,,,,Srzem,Martinus Lipski,,płatnik,,,,Śrem
+502,altarzysta kolegium,,,,4,,,"Simon altarista pauperum corporali iuramento dixit, quod per oppidanum de Poniecz census occupati nichil dedit; [brak potwierdzenia wpłaty]",Poniecz,Simon,,płatnik,,,,Śrem
+504,[pleban],,,2,,,,,Czesram,,,płatnik,,,,Śrem
+333,biskup krakowski,,,,,,,"Altarista ibidem Mathias a Caliss iuramento corporali praestito dixit census in villis Szlomowo et Zaczulthowo, per reverendissimum olim dominum episcopum Cracoviensem Zebrzidowski marcas tres suppressas esse gr. 17; [brak potwierdzenia wpłaty, w rękopisie A: «non soluti»]",Cracovia,Zebrzidowski,,biskup,,,,Oborniki
+300,[pleban],,,,12,,,,Kolaczkowo,,,płatnik,,,,Pyzdry
+301,[pleban],,,,6,,,,Mikuszewo,,,płatnik,,,,Pyzdry
+304,[pleban],,,2,,,,,Murzinowo,,,płatnik,,,,Pyzdry
+334,prepozyt,,,,13,,,"Praepositura Sancti Spiritus per capitaneum eiusdem loci suppressa et ecclesia desolata una cum proventibus, allodiumque in cimiterio est aedificatum. Tredecim non soluti; [brak potwierdzenia wpłaty]",Rogosno,,Św. Duch,płatnik,,,,Oborniki
+454,[pleban],,,4,,,,,Srzem,,,płatnik,,,,Śrem
+337,[pleban],,,,24,,,,Owinska,,,płatnik,,,,Oborniki
+339,prepozyt kolegiacki,,,2,,,,,Szamotuli,,,płatnik,,,,Oborniki
+340,kustosz kolegiacki,,,,24,,,,Szamotuli,,,płatnik,,,,Oborniki
+363,kolegium mansjonarzy manualnych kolegiackich,,,,,,,"Mansionarii in sorte domini Lucae de Gorca et Swidwa manuales sunt loco vicariorum qui decantant, et amovibiles, licet annis anteactis quilibet per grossos 24 persolvebant, iuramento corporali dixerunt, omnes census annihilatos esse, vix tertiam partem censuum percipiunt; [brak potwierdzenia wpłaty]",Szamotuli,,,płatnik,,,,Oborniki
+346,altarzysta kolegiacki,,,,24,,,Altaristae ibidem. Martinus Galczinski,Szamotuli,Martinus Galczinski,,płatnik,,,,Oborniki
+288,altarzysta kolegium,,,,12,,,,Pysdri,Paulus a Czarnkow,,płatnik,,,,Pyzdry
+373,[pleban],,,,12,,,,Polaiewo,,,płatnik,,,,Oborniki
+394,[pleban],,,,12,,,,Slopanowo,,,płatnik,,,,Oborniki
+446,[pleban],,,2,,,,,Viry,,,płatnik,,,,Stęszew
+427,[pleban],,,,,1,tak,,Cosczielna Goslina,,,płatnik,,,,Oborniki
+260,altarzysta kolegium,,,,10,,,,Costrzin,Sebastianus,,płatnik,,,,Poznań
+261,[pleban],,,,24,,,,Vierzenicza,,,płatnik,,,,Poznań
+291,altarzysta kolegium,,,,15,,tak,Post mortem Symonis Pakost,Pysdri,Symon Pakost,,"były płatnik, podatek",,,,Pyzdry
+305,[pleban],,,,,1,,,Opatowo,,,były płatnik,,,,Pyzdry
+262,[pleban],,,,24,,,,Smiecziska,,,płatnik,,,,Poznań
+263,[pleban],,,4,,,,,Tulcze,,,płatnik,,,,Poznań
+264,[pleban],,,4,,,,,Niezamisl,,,płatnik,,,,Poznań
+267,[pleban],,,,12,,,,Bagrowo,,,płatnik,,,,Poznań
+268,[pleban],,,,24,,,,Klesczewo,,,płatnik,,,,Poznań
+312,"[pleban], kanclerz biskupa poznańskiego",,,,30,,tak,Szamarzewo reverendi domini  -Rudniczki cancellarii reverendissimi domini episcopi Posnaniensis,Szamarzewo,Rudniczki,,płatnik,,,,Pyzdry
+313,[pleban],,,,12,,tak,,Gorasdowo,,,płatnik,,,,Pyzdry
+314,[pleban],,,,12,,tak,,Kaczanowo,,,płatnik,,,,Pyzdry
+418,[właściciel uposażenia],,,,,,,"Skoky. Dimissi sunt grossi triginta, nam fundum et decimas domina castellana Landensis Zeliczki et Nininski medios proventus in decimis occupaverunt, prout corporali iuramento comprobavit",Skoky,Nininski,,właściciel uposażenia,,,,Oborniki
+395,[pleban],,,2,,,,,Tharnowo,,,płatnik,,,,Oborniki
+315,[pleban],,,,,2,tak,Miloslaw. Profanata et desolata per haereticos,Miloslaw,,,płatnik,,,,Pyzdry
+364,prepozyt,,,,18,,,"Praepositura Sancti Spiritus extra Szamothuli. Ambrosius plebanus Co[stensis] a praepositura.
+Grossi sex sunt ei dimissi, quia dominus Biechowski prohibuit suis subditis in villa Kampa fertones ab annis octo persolvere, licet excomunicantur",Szamothuli,Ambrosius,Św. Duch,płatnik,,,,Oborniki
+372,wikariusz parafialny,,,,,1,,"Obrziczko vacat. Vicarium patronus fovet ab annis quinque, proventus pro se percipit dominus Tomiczki",Obrziczko,,,płatnik,,,,Oborniki
+374,[pleban],,,2,,,,Choynicza cum Morawsko unita,Choynicza,,,płatnik,,,,Oborniki
+384,[pleban],,,2,,,,,Sobotha,,,płatnik,,,,Oborniki
+389,[pleban],,,,8,,,,Lucowo,,,płatnik,,,,Oborniki
+397,[pleban],,,2,,,,,Cerquicza,,,płatnik,,,,Oborniki
+167,pleban,,,,,,,Stanislaus plebanus in Klesczewo,Klesczewo,Stanislaus,,posiadacz parafii,,,,
+445,altarzysta,,,,,,,[brak sumy i potwierdzenia wpłaty],Lodzia,,,płatnik,,,,Stęszew
+171,pleban,,,,,,,Paulus sancti Martini plebanus,Posnania,Paulus,św. Marcin,posiadacz parafii,,,,
+457,altarzysta kolegium,,,,24,,,,Srzem,Mathias Obara,,płatnik,,,,Śrem
+269,[pleban],,,,6,,,,Rogalinko,,,płatnik,,,,Poznań
+270,[pleban],,,,24,,,,Splawie,,,płatnik,,,,Poznań
+336,[pleban],,,,24,,,,Pruscze,,,płatnik,,,,Oborniki
+342,[kanonik kolegiacki],,,,24,,,Martinus molenda,Szamotuli,Martinus Molenda,,płatnik,,,,Oborniki
+343,dziekan kolegiacki,,,,24,,tak,"Ioannes Makolski decanus, 24 [pominięty wyraz «gr.»]",Szamotuli,Ioannes Makolski,,płatnik,,,,Oborniki
+344,[kanonik kolegiacki],,,,24,,tak,"Franciscus Vyssoczki, 24 [pominięty wyraz «gr.»]",Szamotuli,Franciscus Vyssoczki,,płatnik,,,,Oborniki
+375,[pleban],,,,,,,Choynicza cum Morawsko unita,Morawsko,,,posiadacz drugiej parafii,,,,Oborniki
+347,altarzysta kolegiacki,,,,24,,tak,Clemens in loco Ioannis Sczigiel,Szamotuli,Clemens,,płatnik,,,,Oborniki
+450,[pleban],,,,,1,tak,,Dupiewo,,,płatnik,,,,Stęszew
+396,[pleban],,,2,,,,,Ludomie,,,płatnik,,,,Oborniki
+399,[pleban],,,,,1,tak,,Oborniki,,,płatnik,,,,Oborniki
+11,król Polski,,,,,,,"Regestrum contributionis duplae in totum clerum decretae pro serenissimo principe domino domino Sigismundo Augusto rege Poloniae anno Domini millesimo quingentesimo sexagesimo primo in synodo provinciali Varssouiensi, cuius contributionis exactor deputatus venerabilis dominus Michael Skzetussewski canonicus Posnaniensis","",Sigismundus Augustus,,panujący,,,,
+447,[pleban],,,,24,,,,Mossina,,,płatnik,,,,Stęszew
+460,"altarzysta kolegium, organista",,,,22,,,,Srzem,,,płatnik,,,,Śrem
+507,[pleban],,,4,,,,,Nieparth,,,płatnik,,,,Śrem
+195,[ojciec altarzysty kolegiackiego],,,,,,,Noe filius Hendris Szink; [Przyjęta forma imienia w mianowniku jest wątpliwa],Posnania,Hendri Szink,,ojciec altarzysty kolegiackiego,,,,
+417,[właściciel uposażenia],,,,,,,"Skoky. Dimissi sunt grossi triginta, nam fundum et decimas domina castellana Landensis Zeliczki et Nininski medios proventus in decimis occupaverunt, prout corporali iuramento comprobavit",Skoky,Zeliczki,,właściciel uposażenia,,,,Oborniki
+428,dekanat wiejski,,,,,,,Decanatus Stessowiensis,Sthęssewo,,,,,,,Stęszew
+341,"[kanonik kolegiacki], doktor",,,,24,,,Adam Doctor,Szamotuli,Adam,,płatnik,,,,Oborniki
+335,"starosta rogoziński, [właściciel uposażenia]",,,,,,,"Praepositura Sancti Spiritus per capitaneum eiusdem loci suppressa et ecclesia desolata una cum proventibus, allodiumque in cimiterio est aedificatum. Tredecim non soluti",Rogosno,,,właściciel uposażenia,,,,Oborniki
+276,[pleban],,,,12,,tak,,Kampa,,,płatnik,,,,Poznań
+367,[pleban],,,,,1,,,Antiqua Szamotuli,,,płatnik,,,,Oborniki
+368,[pleban],,,,12,,,,Kissewo,,,płatnik,,,,Oborniki
+448,pleban,,,,,,tak,Trzebawie plebanus non est; [brak potwierdzenia wpłaty],Trzebawie,,,płatnik,,,,Stęszew
+449,altarzysta,,,,10,,tak,,Lodzia,,,płatnik,,,,Stęszew
+376,[pleban],,,2,,,,,Lubasz,,,płatnik,,,,Oborniki
+398,[pleban],,,,14,,,,Rosnowo,,,płatnik,,,,Oborniki
+400,[pleban],,,,24,,tak,,Liechnino,,,płatnik,,,,Oborniki
+401,[pleban],,,,,1,tak,,Stobnicza,,,płatnik,,,,Oborniki
+419,[właściciel uposażenia],,,,,,,"Obrziczko vacat. Vicarium patronus fovet ab annis quinque, proventus pro se percipit dominus Tomiczki",Obrziczko,Tomiczki,,właściciel uposażenia,,,,Oborniki
+429,pleban,,,,,1,,,Sthęssewo,Andreas Reczulski,,płatnik,,,,Stęszew
+469,[pleban],,,2,,,,,Lubin,,,płatnik,,,,Śrem
+459,altarzysta kolegium,,,,23,,,,Srzem,Ioannes a Smiecziska,,płatnik,,,,Śrem
+472,altarzysta kolegium,,,,20,,,,Krziwin,Albertus Sadlinski,,płatnik,,,,Śrem
+473,altarzysta kolegium,,,,20,,,,Krziwin,Sthephanus,,płatnik,,,,Śrem
+475,altarzysta kolegium,,,,20,,,,Krziwin,Valentinus Crobia,,płatnik,,,,Śrem
+478,[pleban],,,,24,,,,Cunowo,,,płatnik,,,,Śrem
+420,"wojewoda brzeski, [właściciel miejscowości]",,,,,,,Chodziesz palatini Brzestensis domini Casparis; Ecclesiae per haereticos occupatae,Chodziesz,Caspar,,właściciel miejscowości,,,,Oborniki
+494,altarzysta kolegium,,,,15,,,,Crobia,Stanislaus Crobia,,płatnik,,,,Śrem
+495,altarzysta kolegium,,,,24,,,,Crobia,Mathias Maliechownik,,płatnik,,,,Śrem
+500,"altarzysta kolegium, kaznodzieja",,,,20,,,,Poniecz,Blasius,,płatnik,,,,Śrem
+505,[pleban],,,2,,,,,Dupino,,,płatnik,,,,Śrem
+506,[pleban],,,4,,,,,Wyssoczko,,,płatnik,,,,Śrem
+508,[pleban],,,2,,,,,Zitowieczko,,,płatnik,,,,Śrem
+369,[pleban],,,4,,,,,Obiezierze,,,płatnik,,,,Oborniki
+381,[pleban],,,,,1,,,Lussowo,,,płatnik,,,,Oborniki
+402,altarzysta parafialny,,,,,,tak,"",Skoki,,,płatnik,,,,Oborniki
+430,prepozyt szpitalny,,,,15,,,"Praepositura hospitalis Sancti Spiritus. A A praepositura hospitalis Sancti Spiritus in Sthessewo, medio corporali iuramento praestito dixit, census et alios omnes proventus in villa Piotrowo ab annis tribus periisse; [brak potwierdzenia wpłaty]",Sthessewo,,Św. Duch,płatnik,,,,Stęszew
+451,[pleban],,,,,1,tak,,Granowo,,,płatnik,,,,Stęszew
+370,[pleban],,,,30,,,"Skoky. Dimissi sunt grossi triginta, nam fundum et decimas domina castellana Landensis Zeliczki et Nininski medios proventus in decimis occupaverunt, prout corporali iuramento comprobavit",Skoky,,,płatnik,,,,Oborniki
+377,[pleban],,,2,,,,Czarnkowo Bialla,Czarnkowo,,,płatnik,,,,Oborniki
+380,[pleban],,,2,,,,,Margonin,,,płatnik,,,,Oborniki
+403,[pleban],,,,12,,tak,,Ocziessino,,,płatnik,,,,Oborniki
+406,[pleban],,,,,1,tak,,Ricziwol,,,płatnik,,,,Oborniki
+407,[pleban],,,,24,,tak,,Vielien,,,płatnik,,,,Oborniki
+408,[pleban],,,,,1,tak,,Vsczie,,,płatnik,,,,Oborniki
+63,[kanonik katedralny],,,2,,,,,Posnaniensis,Ioannes Przespoliewski,,płatnik,,,,
+431,[wieś uposażeniowa],,,,,,,"Praepositura hospitalis Sancti Spiritus. A praepositura hospitalis Sancti Spiritus in Sthessewo, medio corporali iuramento praestito dixit, census et alios omnes proventus in villa Piotrowo ab annis tribus periisse",Piotrowo,,,,,,,Stęszew
+470,[pleban],,,2,,,,,Krziwin,,,płatnik,,,,Śrem
+474,altarzysta kolegium,,,,16,,,,Krziwin,Petrus de Costan,,płatnik,,,,Śrem
+476,[pleban],,,4,,,,,Swierczina,,,płatnik,,,,Śrem
+477,altarzysta,,,,,,,Altare ibidem in Swirczina; [brak sumy i potwierdzenia wpłaty],Swirczina,,,płatnik,,,,Śrem
+378,[pleban],,,,,,,Czarnkowo Bialla,Bialla,,,posiadacz drugiej parafii,,,,Oborniki
+382,[pleban],,,2,,,,,Kazmirz,,,płatnik,,,,Oborniki
+383,[pleban],,,,24,,,,Dluga Goslina,,,płatnik,,,,Oborniki
+404,[pleban],,,,12,,tak,,Budziszewo,,,płatnik,,,,Oborniki
+405,altarzysta,,,,,,tak,,Ludomie,,,płatnik,,,,Oborniki
+411,altarzysta,,,,15,,tak,Altare  vaccat,Szlomowo,,,płatnik,,,,Oborniki
+410,pleban,,,,,1,tak,Szlomowo parochialis vacat,Szlomowo,,,płatnik,,,,Oborniki
+21,dekanat wiejski,,,,,,,Obornicensis,Obornicensis,,,,,,,
+412,[pleban],,,,24,,tak,,Gacz,,,płatnik,,,,Oborniki
+25,dekanat wiejski,,,,,,,Novae Civitatis,Novae Civitatis,,,,,,,
+436,[pleban],,,2,,,,,Nieprussewo,,,płatnik,,,,Stęszew
+438,altarzysta,,,,8,,,,Comorniki,Symon,,płatnik,,,,Stęszew
+439,[pleban],,,4,,,,,Modrze,,,płatnik,,,,Stęszew
+409,altarzysta,,,,5,,tak,,Vsczie,,,płatnik,,,,Oborniki
+22,dekanat wiejski,,,,,,,Sthęszowiensis,Sthęszowiensis,,,,,,,
+12,kanonik katedralny poznański,,,,,,,"Regestrum contributionis duplae in totum clerum Adecretae pro serenissimo principe domino domino Sigismundo Augusto rege Poloniae anno Domini millesimo quingentesimo sexagesimo primo in synodo provinciali Varssouiensi, cuius contributionis exactor deputatus venerabilis dominus Michael Skzetussewski canonicus Posnaniensis",Posnaniensis,Michael Skzetussewski,,kolektor,,,,
+26,dekanat wiejski,,,,,,,Wschowensis,Wschowensis,,,,,,,
+27,dekanat wiejski,,,,,,,Grodzicensis,Grodzicensis,,,,,,,
+23,dekanat wiejski,,,,,,,Srzemensis,Srzemensis,,,,,,,
+13,dekanat wiejski,,,,,,,Posnaniensis,Posnaniensis,,,,,,,
+34,archidiakon katedralny poznański,10,67,6,,,,Archidiaconus Posnaniensis. Reverendus dominus Martinus de Rusiecz. Ad marcas sexaginta septem usuales,Posnaniensis,Martinus de Rusiecz,,płatnik,,,,
+35,kantor katedralny,3,20.5,4,,,,Cantor. Reverendus dominus Franciscus Wyssoczki. Proventus extendunt se ad marcas viginti cum media grossos 18,Posnaniensis,Franciscus Wyssoczki,,płatnik,18,,,
+36,kustosz katedralny,4.5,29,6,,,,"Custos. Reverendus dominus Martinus Galczinski, habet proventus in villa Kaczanowo et censibus emptis. Proventus extendunt se ad marcas usuales viginti novem et unum fertonem",Posnaniensis,Martinus Galczinski,,płatnik,,1,,
+37,scholastyk katedralny,3,,4,,,,Scholasticus Ioannes Lawski,Posnaniensis,Ioannes Lawski,,płatnik,,,,
+38,archidiakon katedralny śremski,1.5,10.5,2,,,,"Srzemensis archidiaconus reverendus dominus Andreas Patricius. Habet proventus in decimis pecuniariis marcas 10,5 usuales",Posnaniensis,Andreas Patricius,,płatnik,,,,
+39,archidiakon katedralny pszczewski,,4,2,,,,Pczeuensis archidiaconus Laurentius Kierski. Proventus extendunt se ad marcas quatuor usuales,Posnaniensis,Laurentius Kierski,,płatnik,,,,
+40,kanclerz katedralny,2,12,2,,,,Cancellarius Stanislaus Warsewiczki. Habet proventus in decimis manipularibus et fertonibus. Marcas usuales duodecim grossos 16,Posnaniensis,Stanislaus Warsewiczki,,płatnik,16,,,
+41,[kanonik katedralny],7,43,2,,,,Stanislaus Slomowski. Proventus in decimis manipularibus et maldratis. Faciunt marcas usuales quadraginta tres,Posnaniensis,Stanislaus Slomowski,,płatnik,,,,
+42,[kanonik katedralny],7,49.5,4,,,,Ioannes Skrzetussewski. Habentur proventus. Marcae usuales quadraginta novem cum media grossi duodecim,Posnaniensis,Ioannes Skrzetussewski,,płatnik,12,,,
+43,[kanonik katedralny],2.5,15,2,,,,Ioannes Cokaliewski. Habet proventus. Marcas quindecim usuales,Posnaniensis,Ioannes Cokaliewski,,płatnik,,,,
+45,[kanonik katedralny],,,2,,,,,Posnaniensis,Stanislaus Obiezierski,,płatnik,,,,
+46,"biskup sufragan, [kanonik katedralny]",1.5,,3,,,,,Posnaniensis,Iacobus Dziaduski,,płatnik,,,,
+47,[kanonik katedralny],,,2,,,,,Posnaniensis,Faelix Choynowski,,płatnik,,,,
+48,[kanonik katedralny],,,2,,,,,Posnaniensis,Franciscus Vyszoczki,,płatnik,,,,
+49,[kanonik katedralny],,,2,,,,,Posnaniensis,Paulus Glogowski,,płatnik,,,,
+50,[kanonik katedralny],,,4,,,,,Posnaniensis,Petrus Volski,,płatnik,,,,
+51,"[kanonik katedralny], kolektor",,,2,,,,,Posnaniensis,Michael Skrzethussewski,,płatnik,,,,
+31,pleban,,,,,,,"Reverendissimus in Christo pater et dominus dominus Andreas Czarnkowski Dei gratia episcopus Posnaniensis, de suis proventibus, per manus venerabilis domini Foelicis Pomorski in Cziazem plebani et sui thesaurarii solvit et numeravit in moneta per grossos triginta computan[da] florenos ducentos.",Cziazem,Foelix Pomorski,,pełnomocnik,,,,
+53,[kanonik katedralny],,,4,,,,,Posnaniensis,Stanislaus Staręski,,płatnik,,,,
+54,[kanonik katedralny],,,2,,,,,Posnaniensis,Bartholomeus Siekierzeczki,,płatnik,,,,
+55,[kanonik katedralny],,,2,,,,,Posnaniensis,Andreas Craiewski,,płatnik,,,,
+56,[kanonik katedralny],,,2,,,,,Posnaniensis,Stanislaus Ruszieczki,,płatnik,,,,
+57,[kanonik katedralny],,,2,,,,,Posnaniensis,Iacobus Lanczki,,płatnik,,,,
+59,[kanonik katedralny],,,2,,,,,Posnaniensis,Stanislaus Cuninski,,płatnik,,,,
+60,[kanonik katedralny],,,2,,,,,Posnaniensis,Ioannes Rzeskowski,,płatnik,,,,
+61,"[kanonik katedralny], doktor",,,2,,,,,Posnaniensis,Paulus Sarbinius,,płatnik,,,,
+62,[kanonik katedralny],,,2,,,,,Posnaniensis,Stanislaus Sziskowski,,płatnik,,,,
+64,[kanonik katedralny],,,2,,,,,Posnaniensis,Albertus Oborniczki,,płatnik,,,,
+65,[kanonik katedralny],,,4,,,,,Posnaniensis,Erasmus Mielinski,,płatnik,,,,
+66,[kanonik katedralny],,,,,,tak,,Posnaniensis,Ioannes Powodowski,,płatnik,,,,
+69,[kanonik katedralny],,,6,,,,,Posnaniensis,Simon Lugowski,,płatnik,,,,
+70,[kanonik katedralny],,,2,,,,,Posnaniensis,Laurentius Modliszewski,,płatnik,,,,
+71,[kanonik katedralny],,,,24,,,,Posnaniensis,Hieronimus Choienski,,płatnik,,,,
+72,[kanonik katedralny],,,2,,,,,Posnaniensis,Ioannes Dambniczki,,płatnik,,,,
+74,[kanonik katedralny],,,2,,,tak,,Posnaniensis,Ioannes Piotrowski,,płatnik,,,,
+75,prebendarz katedralny,,,,10,,tak,Praebenda sancti Ioannis ante Posnaniam,Posnaniensis,,św. Jan,płatnik,,,,
+76,altarzysta katedralny,,,,26,,,,Posnaniensis,Iacobus de Gnesna,,płatnik,,,,
+77,altarzysta katedralny,,,,15,,,,Posnaniensis,Laurentius Cziaganek,,płatnik,,,,
+78,altarzysta katedralny,,,,12,,,Ioannes Ninijnskij. Idem dixit census tres marcas periisse in domibus Posn[aniae?] muratis post conflagrationem,Posnaniensis,Ioannes Ninijnskij,,płatnik,,,,
+79,altarzysta katedralny,,,,24,,,,Posnaniensis,Thomas Colaczek,,płatnik,,,,
+80,altarzysta katedralny,,,,15,,,,Posnaniensis,Petrus Zerniczki,,płatnik,,,,
+82,altarzysta katedralny,,,,30,,,,Posnaniensis,Ioannes a Cobelin,,płatnik,,,,
+83,altarzysta katedralny,,,,24,,,,Posnaniensis,Mathias a Popowo,,płatnik,,,,
+84,altarzysta katedralny,,,,28,,,,Posnaniensis,Iacobus a Slugoczin,,płatnik,,,,
+115,[kanonik kolegiacki],,,,24,,tak,,Summum Posnaniense,Cristopherus Dunin,św. Maria,płatnik,,,,
+116,[kanonik kolegiacki],,,,24,,tak,,Summum Posnaniense,Georgius Cosmin,św. Maria,płatnik,,,,
+106,[kanonik kolegiacki],,,,24,,,,Summum Posnaniense,Iacobus Raczek a Gnesna,św. Maria,płatnik,,,,
+107,[kanonik kolegiacki],,,,24,,,,Summum Posnaniense,Mathias Mokronowski,św. Maria,płatnik,,,,
+108,[kanonik kolegiacki],,,,24,,,,Summum Posnaniense,Ioannes Skrzethussewski,św. Maria,płatnik,,,,
+99,altarzysta katedralny,,,,26,,tak,,Posnaniensis,Stephanus Sdzarowsky,,płatnik,,,,
+95,[patron altarii katedralnej],,,,,,,"De fundo Iariski villam eiusdem altaris domini Splawsczi occupaverunt, domini de Ostrorog collatores laico contulerunt",Posnaniensis,de Ostrorog,,patron altarii katedralnej,,,,
+138,dziekan kolegiacki,,,,24,,,,Posnania,,św. Maria Magdalena,płatnik,,,,
+96,altarzysta katedralny,,,,18,,tak,Post mortem Michaelis,Posnaniensis,Michael,,"były płatnik, podatek",,,,
+97,altarzysta katedralny,,,,10,,tak,Post mortem Leonardi Herman,Posnaniensis,Leonardus Herman,,"były płatnik, podatek",,,,
+85,altarzysta katedralny,,,,45,,,,Posnaniensis,Gregorius Pakoslawski,,płatnik,,,,
+90,altarzysta katedralny,,,,15,,,,Posnaniensis,Hieronimus Choienski,,płatnik,,,,
+87,altarzysta katedralny,,,,47,,,,Posnaniensis,Ioannes a Sirakow,,płatnik,,,,
+88,altarzysta katedralny,,,,18,,,,Posnaniensis,Martinus Molenda,,płatnik,,,,
+89,altarzysta katedralny,,,,22,,,,Posnaniensis,Andreas Przeczlawski,,płatnik,,,,
+100,altarzysta katedralny,,,,,,tak,,Posnaniensis,Erasmus Mielienski,,płatnik,,,,
+101,altarzysta katedralny,,,,,,tak,,Posnaniensis,Ioannes Powodowski,,płatnik,,,,
+102,altarzysta katedralny,,,,28,,tak,,Posnaniensis,Laurentius Budzilowski,,płatnik,,,,
+94,[właściciel miejscowości],,,,,,,"De fundo Iariski villam eiusdem altaris domini Splawsczi occupaverunt, domini de Ostrorog collatores laico contulerunt",Iariski,Splawsczi,,właściciel miejscowości,,,,
+111,[kanonik kolegiacki],,,,24,,,,Summum Posnaniense,Andreas Craiewski,św. Maria,płatnik,,,,
+112,[kanonik kolegiacki],,,,24,,,,Summum Posnaniense,Petrus Cuneczki,św. Maria,płatnik,,,,
+113,[kanonik kolegiacki],,,,24,,,,Summum Posnaniense,Ioannes Przespoliewski,św. Maria,płatnik,,,,
+114,[kanonik kolegiacki],,,,24,,tak,,Summum Posnaniense,Gallus,św. Maria,płatnik,,,,
+117,[kanonik kolegiacki],,,,24,,tak,,Summum Posnaniense,Ioannes Bninski,św. Maria,płatnik,,,,
+118,[kanonik kolegiacki],,,,24,,tak,,Summum Posnaniense,Mathias Zadorski,św. Maria,płatnik,,,,
+119,[kanonik kolegiacki],,,,24,,tak,,Summum Posnaniense,Ioannes Skrzipinski,św. Maria,płatnik,,,,
+120,[kanonik kolegiacki],,,,24,,tak,,Summum Posnaniense,Martinus Zidowski,św. Maria,płatnik,,,,
+121,[kanonik kolegiacki],,,,24,,tak,,Summum Posnaniense,Gniasdowski,św. Maria,płatnik,,,,
+122,[kanonik kolegiacki],,,,24,,tak,,Summum Posnaniense,Thomas de Posnania,św. Maria,płatnik,,,,
+125,altarzysta kolegiacki,,,,,,,,Summum Posnaniense,Laurentius Rosnowski,św. Maria,płatnik,,,3,
+126,altarzysta kolegiacki,,,,20,,,,Summum Posnaniense,Blasius Psarski,św. Maria,płatnik,,,,
+127,altarzysta kolegiacki,,,,5,,,"Nicolaus Czerniewo. Tres grossi dimissi, quia census marcae tres perierunt",Summum Posnaniense,Nicolaus Czerniewo,św. Maria,płatnik,,,,
+110,[kanonik kolegiacki],,,,24,,,,Summum Posnaniense,Stanislaus Slomowski,św. Maria,płatnik,,,,
+91,altarzysta katedralny,,,,24,,,,Posnaniensis,Lucas a Gnesna,,płatnik,,,,
+103,"altarzysta katedralny, doktor",,,,9,,tak,Adam doctor de Posnania,Posnaniensis,Adam de Posnania,,płatnik,,,,
+104,kustosz kolegiacki,,,,,,,Custos et cancellarius sunt exempti a contributione regali; [brak sumy i potwierdzenia wpłaty],Summum Posnaniense,,św. Maria,płatnik,,,,
+137,prepozyt kolegiacki,,,6,,,,,Posnania,,św. Maria Magdalena,płatnik,,,,
+139,kantor kolegiacki,,,,24,,,,Posnania,,św. Maria Magdalena,płatnik,,,,
+140,[kanonik kolegiacki],,,,24,,,,Posnania,Iacobus Raczek a Gnesna,św. Maria Magdalena,płatnik,,,,
+131,[kanonik kolegiacki],,,,24,,tak,,[Posnania],Ioannes Macolski,św. Mikołaj,płatnik,,,,
+132,[kanonik kolegiacki],,,,24,,tak,,[Posnania],Franciscus de Iuniwladislauia,św. Mikołaj,płatnik,,,,
+133,[kanonik kolegiacki],,,,24,,tak,,[Posnania],Symon Busko,św. Mikołaj,płatnik,,,,
+134,[kanonik kolegiacki],,,,24,,tak,,[Posnania],Ioannes Nisczotha,św. Mikołaj,płatnik,,,,
+135,[kanonik kolegiacki],,,,24,,tak,,[Posnania],Stanislaus a Iuniwladislawia,św. Mikołaj,płatnik,,,,
+136,altarzysta kolegiacki,,,,12,,,,[Posnania],Laurentius Cziganek,św. Mikołaj,płatnik,,,,
+98,altarzysta katedralny,,,,,,tak,[Liczba groszy wytarta],Posnaniensis,Albertus Zakrzewsky,,płatnik,,,,
+129,[kanonik kolegiacki],,,,24,,,,[Posnania],Michael a Vartha,św. Mikołaj,płatnik,,,,
+142,[kanonik kolegiacki],,,,24,,,,Posnania,Petrus a Costan,św. Maria Magdalena,płatnik,,,,
+143,[kanonik kolegiacki],,,,24,,,,Posnania,Mathias Camola,św. Maria Magdalena,płatnik,,,,
+144,[kanonik kolegiacki],,,,24,,,,Posnania,Ioannes a Costan,św. Maria Magdalena,płatnik,,,,
+145,[kanonik kolegiacki],,,,24,,,,Posnania,Petrus de Swiatniki,św. Maria Magdalena,płatnik,,,,
+146,[kanonik kolegiacki],,,,24,,,,Posnania,Andreas de Lekno,św. Maria Magdalena,płatnik,,,,
+147,[kanonik kolegiacki],,,,24,,,,Posnania,Ioannes a Volstin,św. Maria Magdalena,płatnik,,,,
+148,[kanonik kolegiacki],,,,24,,,,Posnania,Ioannes Skrzetuszewski,św. Maria Magdalena,płatnik,,,,
+149,[kanonik kolegiacki],,,,24,,,,Posnania,Franciscus Stelmach,św. Maria Magdalena,płatnik,,,,
+176,altarzysta kolegiacki,,,,28,,,,Posnania,Mathias a Popowo,św. Maria Magdalena,płatnik,,,,
+177,altarzysta kolegiacki,,,,12,,,,Posnania,Baltazar Strutius,św. Maria Magdalena,płatnik,,,,
+151,altarzysta kolegiacki,,,,15,,,,Posnania,Iacobus Raczek a Gnesna,św. Maria Magdalena,płatnik,,,,
+152,altarzysta kolegiacki,,,,16,,,,Posnania,Laurentius Cziganek,św. Maria Magdalena,płatnik,,,,
+153,altarzysta kolegiacki,,,,24,,,,Posnania,Petrus de Costan,św. Maria Magdalena,płatnik,,,,
+154,altarzysta kolegiacki,,,,18,,,,Posnania,Iacobus Valaszek,św. Maria Magdalena,płatnik,,,,
+155,altarzysta kolegiacki,,,,15,,,,Posnania,Mathias Camola,św. Maria Magdalena,płatnik,,,,
+156,altarzysta kolegiacki,,,,28,,,,Posnania,Ioannes a Costan,św. Maria Magdalena,płatnik,,,,
+157,altarzysta kolegiacki,,,,15,,,,Posnania,Petrus de Swiatniki,św. Maria Magdalena,płatnik,,,,
+158,altarzysta kolegiacki,,,,9,,,,Posnania,Petrus a Volstin,św. Maria Magdalena,płatnik,,,,
+159,altarzysta kolegiacki,,,,9,,,,Posnania,Ioannes a Srzem,św. Maria Magdalena,płatnik,,,,
+160,altarzysta kolegiacki,,,,8,,,,Posnania,Ioannes Zarzewo,św. Maria Magdalena,płatnik,,,,
+161,altarzysta kolegiacki,,,,8,,,,Posnania,Ioannes Razek,św. Maria Magdalena,płatnik,,,,
+162,altarzysta kolegiacki,,,,24,,,,Posnania,Sebastianus de Xiasz,św. Maria Magdalena,płatnik,,,,
+163,"altarzysta kolegiacki, szewc",,,,13,,,Mathias sutor a Dolsko,Posnania,Mathias a Dolsko,św. Maria Magdalena,płatnik,,,,
+164,altarzysta kolegiacki,,,,8,,,,Posnania,Andreas Casmirz,św. Maria Magdalena,płatnik,,,,
+165,altarzysta kolegiacki,,,,20,,,,Posnania,Martinus a Posnania,św. Maria Magdalena,płatnik,,,,
+166,altarzysta kolegiacki,,,,18,,,Stanislaus plebanus in Klesczewo,Posnania,Stanislaus,św. Maria Magdalena,płatnik,,,,
+173,altarzysta kolegiacki,,,,12,,,,Posnania,Lucas Ditius,św. Maria Magdalena,płatnik,,,,
+172,"altarzysta kolegiacki, doktor",,,,28,,,Doctor Adam,Posnania,Adam,św. Maria Magdalena,płatnik,,,,
+174,altarzysta kolegiacki,,,,20,,,Ambrosius Costensis plebanus,Posnania,Ambrosius,św. Maria Magdalena,płatnik,,,,
+178,"altarzysta kolegiacki, magister",,,,24,,,Magister Albertus,Posnania,Albertus,św. Maria Magdalena,płatnik,,,,
+180,altarzysta kolegiacki,,,,20,,,,Posnania,Stanislaus a Snena,św. Maria Magdalena,płatnik,,,,
+181,altarzysta kolegiacki,,,,12,,,"Stanislaus Stareski. Dimissi sunt tres grossi, quia census ab annis 26 perierunt marcae tres",Posnania,Stanislaus Stareski,św. Maria Magdalena,płatnik,,,,
+182,altarzysta kolegiacki,,,,18,,,,Posnania,Gregorius a sancto Martino,św. Maria Magdalena,płatnik,,,,
+183,altarzysta kolegiacki,,,,28,,,,Posnania,Georgius Arglaben,św. Maria Magdalena,płatnik,,,,
+184,altarzysta kolegiacki,,,,15,,,,Posnania,Stanislaus Karsniczki,św. Maria Magdalena,płatnik,,,,
+185,altarzysta kolegiacki,,,,20,,,,Posnania,Ioannes Piwo,św. Maria Magdalena,płatnik,,,,
+186,altarzysta kolegiacki,,,,12,,,"Petrus Vilczopolski. Grossi decem dimissi ob eam causam, quia medio corporali iuramento comprobavit, census eiusdem altaris periisse",Posnania,Petrus Vilczopolski,św. Maria Magdalena,płatnik,,,,
+187,altarzysta kolegiacki,,,,8,,,,Posnania,Paulus a Rychwal,św. Maria Magdalena,płatnik,,,,
+189,altarzysta kolegiacki,,,,26,,tak,,Posnania,Stanislaus,św. Maria Magdalena,płatnik,,,,
+193,altarzysta kolegiacki,,,,15,,tak,,Posnania,Petrus Lugowski,św. Maria Magdalena,płatnik,,,,
+170,altarzysta kolegiacki,,,,15,,,Paulus sancti Martini plebanus,Posnania,Paulus,św. Maria Magdalena,płatnik,,,,
+192,altarzysta kolegiacki,,,,27,,tak,Post mortem Casparis,Posnania,Caspar,św. Maria Magdalena,"były płatnik, podatek",,,,
+179,"altarzysta kolegiacki, zakrystian",,,,3,,,Paulus a Lęki  sacristianus,Posnania,Paulus a Lęki,św. Maria Magdalena,płatnik,,,,
+194,altarzysta kolegiacki,,,,28,,tak,Noe filius Hendris Szink,Posnania,Noe Szink,św. Maria Magdalena,płatnik,,,,
+175,pleban,,,,,,,Ambrosius Costensis plebanus,Costensis,Ambrosius,,posiadacz parafii,,,,
+199,prepozyt kolegium prebendarzy,,,,24,,,[funkcja na podstawie nagłówka w rękopisie A: «Ad sanctum Stanislaum in Posnania praebendarii»],Posnania,,św. Stanisław,płatnik,,,,
+150,prebendarz kolegiacki,,,,3,,,"Ioannes Gaiewski praebendarius iuramento corporali comprobavit, quia non plus percepit, nisi duas marcas et tres fertones cum medio, ex quibus cantantibus persolvit, pro se vero fertones tres cum medio tollit, a quibus tres grossos solvit",Posnania,Ioannes Gaiewski,,płatnik,,3.5,,
+200,prebendarz kolegium,,,,24,,,[funkcja na podstawie nagłówka w rękopisie A: «Ad sanctum Stanislaum in Posnania praebendarii»],Posnania,Thomas Colaczek,św. Stanisław,płatnik,,,,
+211,prebendarz kolegium,,,,24,,,[funkcja na podstawie nagłówka w rękopisie A: «Ad sanctum Stanislaum in Posnania praebendarii»],Posnania,Laurentius a Krziwin,św. Stanisław,płatnik,,,,
+212,prebendarz kolegium,,,,24,,,[funkcja na podstawie nagłówka w rękopisie A: «Ad sanctum Stanislaum in Posnania praebendarii»],Posnania,Ioannes a Sirakow,św. Stanisław,płatnik,,,,
+213,prebendarz kolegium,,,,23,,,[funkcja na podstawie nagłówka w rękopisie A: «Ad sanctum Stanislaum in Posnania praebendarii»],Posnania,Mathias Slupcza,św. Stanisław,płatnik,,,,
+214,prebendarz kolegium,,,,24,,,[funkcja na podstawie nagłówka w rękopisie A: «Ad sanctum Stanislaum in Posnania praebendarii»],Posnania,Mathias Camola,św. Stanisław,płatnik,,,,
+58,[kanonik katedralny],,,2,,,tak,"[Potwierdzenie zapłaty - wyraz «solvit» - zapisany jaśniejszym atramentem, przetarty i rozmazany. Zapewne wpisany i przekreślony.  Należy traktować jako zaległość, na co wskazuje brak potwierdzenia w rękopisie A]",Posnaniensis,Albertus Rudniczki,,płatnik,,,,
+218,altarzysta kolegium,,,,10,,,,[Posnania],Ioannes a Volstin,św. Stanisław,płatnik,,,,
+190,altarzysta kolegiacki,,,,10,,tak,Post mortem Ioannis Vino,Posnania,Ioannes Vino,św. Maria Magdalena,"były płatnik, podatek",,,,
+210,prebendarz kolegium,,,,24,,,[funkcja na podstawie nagłówka w rękopisie A: «Ad sanctum Stanislaum in Posnania praebendarii»],Posnania,Sebastianus Sbaszin,św. Stanisław,płatnik,,,,
+202,kolegium altarzystów katedralnych,,,,,,,Altaristae ecclesiae cathedralis Posnaniensis,Posnaniensis,,,były płatnik,,,,
+188,altarzysta kolegiacki,,,,15,,tak,Post mortem Leonardi Herman,Posnania,Leonardus Herman,św. Maria Magdalena,"były płatnik, podatek",,,,
+81,altarzysta katedralny,,,,15,,,"[Nie można wykluczyć, że pomyłka pisarza - powtórzony wiersz]",Posnaniensis,Petrus Zerniczki,,płatnik,,,,
+130,prepozyt kolegiacki,,,,24,,tak,,[Posnania],,św. Mikołaj,płatnik,,,,
+226,altarzysta kolegium,,,,25,,tak,,[Posnania],Stanislaus Srzem,Wszyscy Św.,płatnik,,,,
+240,[pleban],,,,,,,,Maczniki,,,płatnik,,,3,Poznań
+241,[pleban],,,3,,,,,Czerlienino,,,płatnik,,,,Poznań
+242,[pleban],,,2,,,,,Bnin,,,płatnik,,,,Poznań
+232,pleban,,,,30,,,Ecclesia sancti Martini. Paulus plebanus ad sanctum Martinum,[Posnania],Paulus,św. Marcin,płatnik,,,,
+228,altarzysta kolegium,,,,6,,,,[Posnania],Ioannes a Costen,św. Gertruda,płatnik,,,,
+224,altarzysta kolegium,,,,20,,tak,Plebanus in Dupiewo,[Posnania],,Wszyscy Św.,płatnik,,,,
+385,[pleban],,,,24,,,,Chludowo,,,płatnik,,,,Oborniki
+223,"altarzysta kolegium, iluminator",,,,16,,tak,Stanislaus illuminator,[Posnania],Stanislaus,Wszyscy Św.,płatnik,,,,
+238,dekanat wiejski,,,,,,,Decanatus Posnaniensis,Posnaniensis,,,,,,,Poznań
+230,prepozyt,,,,30,,,[brak potwierdzenia wpłaty],[Posnania],,Św. Krzyż,płatnik,,,,
+217,altarzysta kolegium,,,,3,,,,[Posnania],Mathias Camola,św. Stanisław,płatnik,,,,
+221,altarzysta kolegium,,,,16,,,,[Posnania],Iacobus Valaszek,Wszyscy Św.,płatnik,,,,
+235,altarzysta kolegium,,,,16,,,,[Posnania],Stanislaus de Costen,św. Marcin,płatnik,,,,
+236,pleban,,,2,,,,Ecclesia sancti Adalberti. Martinus Prziborowski plebanus,[Posnania],Martinus Prziborowski,św. Wojciech,płatnik,,,,
+237,pleban,,,,30,,,Ecclesia sanctae Margaretae. Ioannes Skrzipinski plebanus,[Posnania],Ioannes Skrzipinski,św. Małgorzata,płatnik,,,,
+225,pleban,,,,,,,Plebanus in Dupiewo,Dupiewo,,,posiadacz parafii,,,,
+231,prepozyt,,,2,,,,,[Posnania],,Św. Duch,płatnik,,,,
+219,altarzysta kolegium,,,,15,,,,[Posnania],Sthephanus Sdzarowski,św. Stanisław,płatnik,,,,
+222,altarzysta kolegium,,,,12,,tak,Post mortem Mathiae Gabin,[Posnania],Mathias Gabin,Wszyscy Św.,"były płatnik, podatek",,,,
+229,altarzysta kolegium,,,,12,,,,[Posnania],Paulus Lęki,św. Gertruda,płatnik,,,,
+198,altarzysta kolegiacki,,,,20,,tak,Post mortem Vincentii de Posnania,Posnania,Vincentius de Posnania,św. Maria Magdalena,były płatnik,,,,
+434,[patron altarii],,,,,,,"Altare  vaccat ab annis duobus, collationis generosi domini Lucae Gulthowski et Annae Oporowska",Sthessewo,Anna Oporowska,,patron altarii,,,,Stęszew
+386,[pleban],,,,12,,,,Glemboczek,,,płatnik,,,,Oborniki
+387,[pleban],,,,24,,,,Potulicze,,,płatnik,,,,Oborniki
+388,[pleban],,,,12,,,,Lęgowo,,,płatnik,,,,Oborniki
+435,[pleban],,,,24,,,,Conarzewo,,,płatnik,,,,Stęszew
+480,altarzysta kolegium,,,,20.5,,,,Gostin,Bartholomaeus Pniewita,,płatnik,,,,Śrem
+481,[parafia],,,,,,,,Gostin,,,,,,,Śrem
+437,[pleban],,,,40,,,,Comorniki,,,płatnik,,,,Stęszew
+440,[pleban],,,,24,,,,Drosin,,,płatnik,,,,Stęszew
+441,[pleban],,,2,,,,,Skorzewo,,,płatnik,,,,Stęszew
+463,altarzysta kolegium,,,,15,,,,Srzem,Paulus de Covaliewo,,płatnik,,,,Śrem
+245,mansjonarz kolegium,,,,16,,,"Paulus mansionarius corporali iuramento comprobavit, nihil se percepisse ob conflagrationem oppidi Bnyn a tribus annis",Bninensis,Paulus,,płatnik,,,,Poznań
+246,mansjonarz kolegium,,,,,,,Ibidem mansionariae duae vaccant; [brak potwierdzenia wpłaty],Bninensis,,,płatnik,,,,Poznań
+484,[pleban],,,2,,,,,Ridzina,,,płatnik,,,,Śrem
+485,[pleban],,,,9,,,,Siemowo,,,płatnik,,,,Śrem
+488,altarzysta kolegium,,,,30,,,,Strzelcze,Domachowita,,płatnik,,,,Śrem
+489,altarzysta kolegium,,,,14,,,Martinus altarista,Strzelcze,Martinus,,płatnik,,,,Śrem
+493,altarzysta kolegium,,,,20,,,,Crobia,Albertus Crobia,,płatnik,,,,Śrem
+358,altarzysta kolegiacki,,,,,,,Clemens in loco Ioannis Sczigiel,Szamotuli,Ioannes Sczigiel,,były płatnik,,,,Oborniki
+414,prepozyt [szpitalny],,,,9,,tak,Praepositus ibidem,Chodziesz,,,płatnik,,,,Oborniki
+530,[pleban],,,2,,,,Gorca cum Sabelkowo,Gorca,,,płatnik,,,,Śrem
+511,altarzysta,,,,,,,Altare ibidem vaccat; [brak sumy i potwierdzenia wpłaty],Domachowo,,,płatnik,,,,Śrem
+512,[pleban],,,,12,,,,Pacoslaw,,,płatnik,,,,Śrem
+513,[pleban],,,,12,,,,Daliewo,,,płatnik,,,,Śrem
+514,[pleban],,,,,1,,,Opporowo,,,płatnik,,,,Śrem
+515,[pleban],,,4,,,,,Pampowo,,,płatnik,,,,Śrem
+516,[pleban],,,4,,,,,Dolsko,,,płatnik,,,,Śrem
+465,"kasztelan kaliski, [właściciel uposażenia]",,,,,,,Ioannes Brodnicza. Census apud dominum castellanum Callisiensem in Jutrosin occupati,Jutrosin,,,właściciel uposażenia,,,,Śrem
+518,altarzysta kolegium,,,,15,,,,Dolsko,Mathias Longaiek,,płatnik,,,,Śrem
+520,altarzysta kolegium,,,,13,,,,Dolsko,Iacobus Sutorek,,płatnik,,,,Śrem
+521,altarzysta kolegium,,,,16,,,,Dolsko,Ioannes Curowski,,płatnik,,,,Śrem
+522,altarzysta kolegium,,,,12,,tak,,Dolsko,Laurentius,,płatnik,,,,Śrem
+523,altarzysta kolegium,,,,13,,tak,,Dolsko,Georgius,,płatnik,,,,Śrem
+524,altarzysta kolegium,,,,15,,tak,,Dolsko,Mathias,,płatnik,,,,Śrem
+525,[pleban],,,,,1,,,Morca,,,płatnik,,,,Śrem
+526,[pleban],,,,12,,,,Skaradowo,,,płatnik,,,,Śrem
+527,[pleban],,,,24,,,,Lasczino,,,płatnik,,,,Śrem
+528,[pleban],,,,24,,,,Zakrzewo,,,płatnik,,,,Śrem
+529,[pleban],,,,24,,,,Smolicze,,,płatnik,,,,Śrem
+534,[pleban],,,,24,,,,Sarnowa,,,płatnik,,,,Śrem
+535,[pleban],,,,24,,,,Slabossew,,,płatnik,,,,Śrem
+536,[pleban],,,,,,tak,,Skorosewicze,,,płatnik,,,,Śrem
+537,[pleban],,,2,,,tak,,Wiescziczino,,,płatnik,,,,Śrem
+539,[pleban],,,2,,,tak,,Poniecz,,,płatnik,,,,Śrem
+540,[pleban],,,2,,,tak,,Iutroszin,,,płatnik,,,,Śrem
+541,pleban,,,,,,tak,Golaszino. Plebanus non est,Golaszino,,,płatnik,,,,Śrem
+532,[właściciel uposażenia],,,,,,,,Poniecz,Rokossowski,,właściciel uposażenia,,,,Śrem
+461,altarzysta kolegium,,,,20,,,,Srzem,Petrus a Iutrosin,,płatnik,,,,Śrem
+462,altarzysta kolegium,,,,11,,,,Srzem,Laurentius Bienkowski,,płatnik,,,,Śrem
+482,altarzysta kolegium,,,,13,,,Paulus altarista,Gostin,Paulus,,płatnik,,,,Śrem
+496,"altarzysta kolegium, bakałarz",,,,15,,,"Iacobus baccalaureus a suo altari nichil dedit, iuramento corporali praestito, quod omnes census sunt occupati, et nichil eorum percepit; [brak potwierdzenia wpłaty]",Crobia,Iacobus,,płatnik,,,,Śrem
+497,"prepozyt szpitalny, bakałarz",,,,28,,,Praepositura ibidem hospitalis. Iacobus baccalaureus praepositus,Crobia,Iacobus,,płatnik,,,,Śrem
+503,"altarzysta kolegium, prepozyt szpitalny",,,,,,,"Petrus praepositus hospitalis tantum unam marcam percepit census, alios dominus Rokossowski occupavit, prout corporali iuramento comprobavit; [brak sumy i potwierdzenia wpłaty]",Poniecz,Petrus,,płatnik,,,,Śrem
+547,[pleban],,,,,,tak,[brak sumy],Golassino,,,płatnik,,,,Śrem
+542,[pleban],,,,12,,tak,,Conary,,,płatnik,,,,Śrem
+543,prepozyt [szpitalny],,,,17,,tak,Praepositus  in Dolsko Sancti Spiritus,Dolsko,,Św. Duch,płatnik,,,,Śrem
+128,[kanonik kolegiacki],,,,24,,,,[Posnania],Martinus Dunaiow,św. Mikołaj,płatnik,,,,
+548,[pleban],,,,,,tak,[brak sumy],Trzebossa,,,płatnik,,,,Śrem
+545,[właściciel uposażenia],,,,,,,Gostin. Per dominum Nicolaum Gostinski et vidua,Gostin,Nicolaus Gostinski,,właściciel uposażenia,,,,Śrem
+546,altarzysta kolegium,,,,,,tak,Altaristae quatuor vacant; [brak sumy],Gostin,,,płatnik,,,,Śrem
+553,altarzysta kolegium,,,,8,,,,Costan,Petrus Costan,,płatnik,,,,Kościan
+551,[właściciel miejscowości],,,,,,,"Costan. Ambrosius plebanus
+Floreni duo sunt dimissi, propter diminutionem proventuum dotis plebanalis, nam villam domino Rokossowski diu concessam per eius antecessores, in trecentis florenis oppignoratam exemit, eadem summa, a qua contribuit census annis singulis per marcas novem",Costan,Rokossowski,,właściciel miejscowości,,,,Kościan
+538,pleban,,,,,,tak,Boienicze. Plebanus non est,Boienicze,,,płatnik,,,,Śrem
+544,[pleban],,,2,,,tak,Gostin. Per dominum Nicolaum Gostinski et vidua,Gostin,,,płatnik,,,,Śrem
+289,mansjonarz kolegium,,,,10,,,Mansionarii Pysdrenses numero quinque decem grossos solverunt,Pysdrenses,,,płatnik,,,,Pyzdry
+555,altarzysta kolegium,,,,24,,,,Costan,Baltazar,,płatnik,,,,Kościan
+557,altarzysta kolegium,,,,18,,,,Costan,Martinus Strzelcze,,płatnik,,,,Kościan
+558,altarzysta kolegium,,,,6,,,,Costan,Paulus Cosmin,,płatnik,,,,Kościan
+559,altarzysta kolegium,,,,9,,,,Costan,Stanislaus Costan Grodziczki,,płatnik,,,,Kościan
+560,altarzysta kolegium,,,,21,,,,Costan,Malcher,,płatnik,,,,Kościan
+561,"altarzysta kolegium, prepozyt [szpitalny]",,,,12,,,Stanislaus a Siracz a praepositura Sancti Spiritus,Costan,Stanislaus a Siracz,,płatnik,,,,Kościan
+562,altarzysta kolegium,,,,10,,,,Costan,Michael Pczewitha,,płatnik,,,,Kościan
+563,altarzysta kolegium,,,,13,,,,Costan,Albertus Sadlinski,,płatnik,,,,Kościan
+564,altarzysta kolegium,,,,13,,,,Costan,Michael Costan,,płatnik,,,,Kościan
+565,altarzysta kolegium,,,,14,,,,Costan,Iacobus Lorek,,płatnik,,,,Kościan
+566,altarzysta kolegium,,,,17,,,,Costan,Ioannes Volstin,,płatnik,,,,Kościan
+567,altarzysta kolegium,,,,4,,,,Costan,Mathias Clayber,,płatnik,,,,Kościan
+568,altarzysta kolegium,,,,15,,,,Costan,Iacobus Gwiasdowski,,płatnik,,,,Kościan
+569,altarzysta kolegium,,,,24,,,,Costan,Laurentius Bienkowski,,płatnik,,,,Kościan
+570,altarzysta kolegium,,,,20,,,,Costan,Gregorius de Sirakow,,płatnik,,,,Kościan
+571,altarzysta kolegium,,,,16,,,,Costan,Ioannes Potarzicza,,płatnik,,,,Kościan
+573,"altarzysta kolegium, wikariusz",,,,20.5,,,,Costan,Malcher,,płatnik,,,,Kościan
+464,altarzysta kolegium,,,,15,,,Ioannes Brodnicza. Census apud dominum castellanum Callisiensem in Jutrosin occupati; [brak potwierdzenia wpłaty],Srzem,Ioannes Brodnicza,,płatnik,,,,Śrem
+574,altarzysta kolegium,,,,30,,,,Costan,Albertus a Zelanczin,,płatnik,,,,Kościan
+578,altarzysta kolegium,,,,15,,,,Costan,Przespoliewski,,płatnik,,,,Kościan
+579,kolegium altarzystów,,,,24,,,Comunitas altaristarum,Costan,,,płatnik,,,,Kościan
+580,"altarzysta kolegium, altarzysta",,,,31,,,Malcher altarista in ecclesia Corporis Christi,Costan,Malcher,,płatnik,,,,Kościan
+618,[pleban],,,,8,,,,Chorinia,,,płatnik,,,,Kościan
+582,mansjonarz kolegium,,,,24,,,,Costen,Troianus Vronski,,płatnik,,,,Kościan
+583,mansjonarz kolegium,,,,24,,,,Costen,Ioannes Volsztin,,płatnik,,,,Kościan
+581,kolegium mansjonarzy,,,,,,,Mansionarii in Costen,Costen,,,,,,,Kościan
+600,[pleban],,,,,1,,,Czepin,,,płatnik,,,,Kościan
+585,mansjonarz kolegium,,,,24,,,,Costen,Paulus Cozmin,,płatnik,,,,Kościan
+586,mansjonarz kolegium,,,,24,,,,Costen,Albertus de Oborziska,,płatnik,,,,Kościan
+587,mansjonarz kolegium,,,,24,,,,Costen,Michael Pczewita,,płatnik,,,,Kościan
+589,[pleban],,,,20,,,,Gorca Monachorum,,,płatnik,,,,Kościan
+590,[pleban],,,,24,,,,Ossieczna,,,płatnik,,,,Kościan
+592,altarzysta kolegium,,,,8,,,,Ossieczna,Stanislaus a Sieracz,,płatnik,,,,Kościan
+593,altarzysta kolegium,,,,14,,,Michael altarista,Ossieczna,Michael,,płatnik,,,,Kościan
+594,altarzysta kolegium,,,,12,,,,Ossieczna,Iozephus,,płatnik,,,,Kościan
+595,"altarzysta kolegium, prepozyt",,,,24,,,Andreas praepositus a sua praepositura,Ossieczna,Andreas,,płatnik,,,,Kościan
+596,[pleban],,,,10,,,,Drzeczko,,,płatnik,,,,Kościan
+597,[pleban],,,2,,,,,Rambino,,,płatnik,,,,Kościan
+601,[pleban],,,,24,,,,Bonikowo,,,płatnik,,,,Kościan
+602,[pleban],,,,24,,,,Bialle Iezioro,,,płatnik,,,,Kościan
+599,[właściciel uposażenia],,,,,,,"Grossi duodecim dimissi, propter ademptionem duorum mansorum per dominum Suloczki, prout corporali iuramento comprobavit",Obarziska,Suloczki,,właściciel uposażenia,,,,Kościan
+605,altarzysta kolegium,,,,15,,,,Smigiel,Ioannes Iwan,,płatnik,,,,Kościan
+606,altarzysta kolegium,,,,15,,,,Smigiel,Gregorius,,płatnik,,,,Kościan
+607,[pleban],,,,12,,,,Golebino,,,płatnik,,,,Kościan
+608,[pleban],,,,,1,,,Voniesiecz,,,płatnik,,,,Kościan
+609,[pleban],,,,24,,,,Grizina,,,płatnik,,,,Kościan
+610,[pleban],,,,12,,,,Gilowiecz,,,płatnik,,,,Kościan
+611,[pleban],,,,24,,,,Pawlowicze,,,płatnik,,,,Kościan
+612,[pleban],,,,24,,,,Blodziszewo,,,płatnik,,,,Kościan
+613,[pleban],,,4,,,,,Brodnicza,,,płatnik,,,,Kościan
+614,[pleban],,,,24,,,,Gluchowo,,,płatnik,,,,Kościan
+615,[pleban],,,,15,,,,Zabno,,,płatnik,,,,Kościan
+550,pleban,,,4,,,,"Costan. Ambrosius plebanus
+Floreni duo sunt dimissi, propter diminutionem proventuum dotis plebanalis, nam villam domino Rokossowski diu concessam per eius antecessores, in trecentis florenis oppignoratam exemit, eadem summa, a qua contribuit census annis singulis per marcas novem",Costan,Ambrosius,,płatnik,,,,Kościan
+556,altarzysta kolegium,,,,15,,,,Costan,Troianus Vronski,,płatnik,,,,Kościan
+572,altarzysta kolegium,,,,18,,,,Costan,Ioannes a Costen,,płatnik,,,,Kościan
+584,mansjonarz kolegium,,,,24,,,,Costen,Stanislaus Grodziczki,,płatnik,,,,Kościan
+588,mansjonarz kolegium,,,,24,,,,Costen,Ioannes Przespoliewski,,płatnik,,,,Kościan
+598,[pleban],,,,12,,,"Grossi duodecim dimissi, propter ademptionem duorum mansorum per dominum Suloczki, prout corporali iuramento comprobavit",Obarziska,,,płatnik,,,,Kościan
+619,[pleban],,,,8,,,,Iaszkowo,,,płatnik,,,,Kościan
+624,[pleban],,,2,,,tak,,Vyskocz,,,płatnik,,,,Kościan
+625,[pleban],,,,,,tak,,Borowko,,,płatnik,,,,Kościan
+626,[pleban],,,2,,,tak,Przemeth Sancti Spiritus,Przemeth,,Św. Duch,płatnik,,,,Kościan
+627,[pleban],,,,24,,tak,,Grobia,,,płatnik,,,,Kościan
+628,[pleban],,,,24,,tak,,Czacz,,,płatnik,,,,Kościan
+630,[pleban],,,4,,,tak,,Smigiel,,,płatnik,,,,Kościan
+631,altarzysta,,,,15,,tak,Altarista in Voniesiecz,Voniesiecz,,,płatnik,,,,Kościan
+632,[prebendarz],,,,13,,tak,Siekowo oraculum,Siekowo,,,płatnik,,,,Kościan
+633,[pleban],,,2,,,tak,,Goniebicze,,,płatnik,,,,Kościan
+634,[pleban],,,,12,,tak,,Vitoslaw,,,płatnik,,,,Kościan
+636,[pleban],,,,22,,tak,,Boianowo,,,płatnik,,,,Kościan
+637,[pleban],,,,12,,tak,,Morcowo,,,płatnik,,,,Kościan
+638,[pleban],,,,12,,tak,,Krczon,,,płatnik,,,,Kościan
+639,[pleban],,,,12,,tak,,Lipno,,,płatnik,,,,Kościan
+623,"altarzysta kolegium, doktor",,,,11,,tak,Post doctorem Herman,Costen,Herman,,"były płatnik, podatek",,,,Kościan
+640,[pleban],,,,12,,tak,,Cokaliewo,,,płatnik,,,,Kościan
+549,dekanat wiejski,,,,,,,Decanatus Costensis,Costan,,,,,,,Kościan
+648,[wieś uposażeniowa],,,,,,,"Iaroczin. Dominus plebanus corporali iuramento dixit, per dominos haeredes villam Boguslaw pulsis incolis in praedium ipsorum conversam, de qua missalia proveniunt ex mansis 24",Boguslaw,,,,,,,Nowe Miasto
+644,altarzysta kolegium,,,,20.5,,,,Nowe Miasto,Stanislaus,,płatnik,,,,Nowe Miasto
+645,altarzysta kolegium,,,,22,,,,Nowe Miasto,Ioannes Razek,,płatnik,,,,Nowe Miasto
+646,[pleban],,,,24,,,,Pogrzibowo,,,płatnik,,,,Nowe Miasto
+650,altarzysta kolegium,,,,8,,,,Iaroczin,Paulus Oleszniki,,płatnik,,,,Nowe Miasto
+651,altarzysta kolegium,,,,18,,,,Iaroczin,Albertus Kaniorek,,płatnik,,,,Nowe Miasto
+652,[pleban],,,,24,,,,Vitaszicze,,,płatnik,,,,Nowe Miasto
+653,[pleban],,,2,,,,,Panieka,,,płatnik,,,,Nowe Miasto
+654,[pleban],,,2,,,,,Mokronos,,,płatnik,,,,Nowe Miasto
+655,[pleban],,,,24,,,,Mchy,,,płatnik,,,,Nowe Miasto
+656,[pleban],,,,,1,,,Rosrzazewo,,,płatnik,,,,Nowe Miasto
+657,[pleban],,,,24,,,,Mieszkowo,,,płatnik,,,,Nowe Miasto
+658,[pleban],,,,24,,,,Biesdziadowo,,,płatnik,,,,Nowe Miasto
+659,[pleban],,,,24,,,,Colnicza,,,płatnik,,,,Nowe Miasto
+660,pleban,,,,,1,,"Vilkowia plebanus. Grossi 12 dimissi, ex ea ratione quia dominus Andreas Opalienski haeres, agros plebanales et cmetonum piscina inundavit, qua inundatione aquarum missalia a cmethonibus et plebano proventus sunt adempti ex agris eius",Vilkowia,,,płatnik,,,,Nowe Miasto
+662,[pleban],,,,,1,,,Gora ante Iaroczin,,,płatnik,,,,Nowe Miasto
+663,[pleban],,,2,,,,,Cerquicza,,,płatnik,,,,Nowe Miasto
+664,[pleban],,,,,1,,,Iaraczewo,,,płatnik,,,,Nowe Miasto
+665,altarzysta,,,,17,,,Lucas Altarista ibidem,Iaraczewo,Lucas,,płatnik,,,,Nowe Miasto
+666,[pleban],,,,24,,,,Lgowo,,,płatnik,,,,Nowe Miasto
+667,[pleban],,,,24,,,,Iancowo,,,płatnik,,,,Nowe Miasto
+668,[pleban],,,,24,,,,Pogorzelicza,,,płatnik,,,,Nowe Miasto
+669,[pleban],,,4,,,,,Siedlemino,,,płatnik,,,,Nowe Miasto
+696,dekanat wiejski,,,,,,,Parochiales per haereticos occupatae,Sthęssewo,,,,,,,Stęszew
+699,dekanat wiejski,,,,,,,Parochiales haereticorum,Srzem,,,,,,,Śrem
+73,[kanonik katedralny],,,2,,,tak,,Posnaniensis,Symon Chabelski,,płatnik,,,,
+694,dekanat wiejski,,,,,,,Ecclesiae per haereticos occupatae,Obornicensis,,,,,,,Oborniki
+680,dekanat wiejski,,,,,,,Decanatus rurales,"",,,,,,,
+670,"[pleban], altarzysta",,,,24,,,Brosthkowo cum altari,Brosthkowo,,,płatnik,,,,Nowe Miasto
+671,[pleban],,,2,,,,Zirkowo in monte ad sanctum Stanislaum,Zirkowo,,św. Stanisław,płatnik,,,,Nowe Miasto
+672,[pleban],,,,24,,,Zircowo ad sanctum Nicolaum,Zircowo,,św. Mikołaj,płatnik,,,,Nowe Miasto
+673,[pleban],,,,,1,,,Bynicze,,,płatnik,,,,Nowe Miasto
+674,[pleban],,,,24,,,,Vieliawieś,,,płatnik,,,,Nowe Miasto
+675,[pleban],,,,24,,,,Dobrzicza,,,płatnik,,,,Nowe Miasto
+676,[pleban],,,,24,,,,Borzeczicze,,,płatnik,,,,Nowe Miasto
+677,[pleban],,,,18,,,,Odalanowo,,,płatnik,,,,Nowe Miasto
+678,[pleban],,,4,,,,,Coszmin,,,płatnik,,,,Nowe Miasto
+687,dekanat wiejski,,,,,,,Debita in eisdem,Posnaniensis,,,,,,,Poznań
+695,dekanat wiejski,,,,,,,Debita in eisdem,Sthęssewo,,,,,,,Stęszew
+689,dekanat wiejski,,,,,,,Debita in eisdem,Pysdrensis,,,,,,,Pyzdry
+693,dekanat wiejski,,,,,,,Debita in eisdem,Obornicensis,,,,,,,Oborniki
+725,[pleban],,,,,,,Ostrow Krempe; [parafia o nazwie dwuczłonowej],Krempe,,,posiadacz drugiej parafii,,,,Nowe Miasto
+700,dekanat wiejski,,,,,,,Debita in eisdem,Costan,,,,,,,Kościan
+724,[pleban],,,,6,,,Ostrow Krempe; [parafia o nazwie dwuczłonowej],Ostrow,,,płatnik,,,,Nowe Miasto
+702,mansjonarz kolegium,,,,24,,,,Cosmin,Albertus Grodzisko,,płatnik,,,,Nowe Miasto
+706,altarzysta kolegium,,,,3,,,,Cosmin,Mathias Mokronowski,,płatnik,,,,Nowe Miasto
+707,altarzysta kolegium,,,,13,,,,Cosmin,Iozephus,,płatnik,,,,Nowe Miasto
+708,altarzysta kolegium,,,,20,,,,Cosmin,Albertus de Brodnicza,,płatnik,,,,Nowe Miasto
+709,altarzysta kolegium,,,,20,,,,Cosmin,Albertus Grodziscze,,płatnik,,,,Nowe Miasto
+710,altarzysta kolegium,,,,20,,,,Cosmin,Ioannes a Cobelin,,płatnik,,,,Nowe Miasto
+704,[właściciel uposażenia],,,,,,,"Mansionariae quatuor ab annis tribus vacant, quorum proventus per haeredem dominum Andream de Gorca percipiuntur, et in usus suos convertuntur",Cosmin,Andrea de Gorca,,właściciel uposażenia,,,,Nowe Miasto
+712,prepozyt,,,,24,,,Praepositura hospitalis Sancti Spiritus ante Coszmin. Praepositus,Coszmin,,,płatnik,,,,Nowe Miasto
+713,[pleban],,,,16,,,,Czielcza,,,płatnik,,,,Nowe Miasto
+714,altarzysta,,,,20,,,Altarista ibidem,Czielcza,,,płatnik,,,,Nowe Miasto
+715,prepozyt,,,2,,,,Praepositura in Dębno. Stanislaus Karsniczki praepositus,Dębno,Stanislaus Karsniczki,,płatnik,,,,Nowe Miasto
+716,"mansjonarz, prebendarz",,,,,2,,"Mansionarii 4 in Debno. Honorabilis Albertus a Coszmin praebendarius solus per se solvit a mansionariis quatuor, a quolibet per grossos 24, marcas 2 solvit.",Debno,Albertus a Coszmin,,płatnik,,,,Nowe Miasto
+717,[pleban],,,,24,,,,Gogoliewo,,,płatnik,,,,Nowe Miasto
+718,[pleban],,,,12,,,,Slupia,,,płatnik,,,,Nowe Miasto
+719,[pleban],,,,24,,,,Chwalkowo,,,płatnik,,,,Nowe Miasto
+720,[pleban],,,,24,,,,Iezewo,,,płatnik,,,,Nowe Miasto
+721,[pleban],,,,30,,,,Pogorzel,,,płatnik,,,,Nowe Miasto
+722,altarzysta,,,,9,,,Altarista ibidem in Pogorzel,Pogorzel,,,płatnik,,,,Nowe Miasto
+723,[pleban],,,,24,,,,Potarzicza,,,płatnik,,,,Nowe Miasto
+726,dekanat wiejski,,,,,,,Debita in eisdem,Nowe Miasto,,,,,,,Nowe Miasto
+739,mansjonarz kolegium,,,,,,tak,"In Cosmyn mansionarii tres Ioannes Klathka, Ioannes Buk, Baltazar vacant.",Cosmyn,Ioannes Klathka,,płatnik,,,,Nowe Miasto
+740,mansjonarz kolegium,,,,,,tak,"In Cosmyn mansionarii tres Ioannes Klathka, Ioannes Buk, Baltazar vacant.",Cosmyn,Ioannes Buk,,płatnik,,,,Nowe Miasto
+701,mansjonarz kolegium,,,,24,,,,Cosmin,Ioannes Sczeska,,płatnik,,,,Nowe Miasto
+741,mansjonarz kolegium,,,,,,tak,"In Cosmyn mansionarii tres Ioannes Klathka, Ioannes Buk, Baltazar vacant.",Cosmyn,Baltazar,,płatnik,,,,Nowe Miasto
+703,mansjonarz kolegium,,,,,,,"Mansionariae quatuor ab annis tribus vacant, quorum proventus per haeredem dominum Andream de Gorca percipiuntur, et in usus suos convertuntur; [brak sumy i potwierdzenia wpłaty]",Cosmin,,,płatnik,,,,Nowe Miasto
+728,prepozyt,,,,24,,tak,Praepositura ante Iaroczin,Iaroczin,,,płatnik,,,,Nowe Miasto
+729,[pleban],,,,24,,tak,,Dambrowka,,,płatnik,,,,Nowe Miasto
+731,[pleban],,,,12,,tak,,Golina,,,płatnik,,,,Nowe Miasto
+735,[pleban],,,,24,,tak,,Starigrod,,,płatnik,,,,Nowe Miasto
+736,[pleban],,,,24,,tak,,Lutogniew,,,płatnik,,,,Nowe Miasto
+743,[pleban],,,,,1,tak,,Borek,,,płatnik,,,,Nowe Miasto
+744,[pleban],,,,24,,tak,,Glogowo,,,płatnik,,,,Nowe Miasto
+757,altarzysta kolegium,,,,,,tak,"Omnes altaristae in Vschowa, quorum numerus triginta tres",Wschowa,,,płatnik,,,,Wschowa
+753,altarzysta kolegium,,,,18,,,,Swiecziechow,Andreas,,płatnik,,,,Wschowa
+747,kolegium altarzystów,,,,,,,Altaristae ibidem,Wschowa,,,,,,,Wschowa
+750,[pleban],,,2,,,,,Swiecziechow,,,płatnik,,,,Wschowa
+746,obywatel miasta,,,,,4,,Honestus Stephanus agricola civis Wschowensis nomine dominorum proconsulis et consulum civitatis Wschowensis marcas 4 peccuniarum solvit,Wschowa,Stephanus,,płatnik,,,,Wschowa
+752,"altarzysta kolegium, wójt",,,,12,,,Caspar scultetus,Swiecziechow,Caspar,,płatnik,,,,Wschowa
+754,[pleban],,,,24,,,,Charbielino,,,płatnik,,,,Wschowa
+755,[pleban],,,,12,,,,Dęmbowa Lęka,,,płatnik,,,,Wschowa
+745,dekanat wiejski,,,,,,,Decanatus Vschovensis,Wschowa,,,,,,,Wschowa
+748,altarzysta kolegium,,,,,,,"Altaristae ibidem. Altaristae quondam numero triginta tres in utraque ecclesia, tam parrochiali quam Corporis Christi, quorum proventus proconsul cum consulibus pro se usurpaverunt et nemo ex eis inhabitat. Haereticus pro plebano habetur; [brak sumy i potwierdzenia wpłaty]",Wschowa,,,płatnik,,,,Wschowa
+777,[pleban],,,,12,,tak,,Sbarzewo,,,płatnik,,,,Wschowa
+771,[pleban],,,,,,,Golancza Jezierczicze annexa eidem,Jezierczicze,,,posiadacz drugiej parafii,,,,Wschowa
+792,[pleban],,,,,,,Sbassin Przeprostina unit[a]. Mathias praepositus in Sbassin,Przeprostina,Mathias,,posiadacz parafii,,,,Grodzisko
+772,[pleban],,,,12,,tak,Slawa in Ducatu Glogowie,Slawa,,,płatnik,,,,Wschowa
+773,[pleban],,,,12,,tak,,Krziczko,,,płatnik,,,,Wschowa
+774,[pleban],,,,12,,tak,,Brenno,,,płatnik,,,,Wschowa
+775,[pleban],,,,12,,tak,,Bucowiecz prope Smigiel,,,płatnik,,,,Wschowa
+776,"[pleban], altarzysta",,,,12,,tak,Lasoczicze. Altare ibidem,Lasoczicze,,,płatnik,,,,Wschowa
+778,[pleban],,,,12,,tak,,Liesno,,,płatnik,,,,Wschowa
+779,[pleban],,,,12,,tak,,Ogrodi,,,płatnik,,,,Wschowa
+791,prepozyt [kolegiacki],,,2,,,,Sbassin Przeprostina unit[ae]. Mathias praepositus in Sbassin,Sbassin,Mathias,,płatnik,,,,Grodzisko
+781,prepozyt szpitalny,,,,17,,,Praepositura hospitalis in Kieblow. Ioannes praepositus,Kieblow,Ioannes,,płatnik,,,,Grodzisko
+641,dekanat wiejski,,,,,,,Decanatus Novae Civitatis,Nowe Miasto,,,były płatnik,,,,Nowe Miasto
+782,[pleban],,,,20,,,,Dambrowka,,,płatnik,,,,Grodzisko
+783,[pleban],,,,,1,,,Camieniecz,,,płatnik,,,,Grodzisko
+784,[pleban],,,,24,,,,Volsthin,,,płatnik,,,,Grodzisko
+785,altarzysta,,,,12,,,Symon altarista in Volstin,Volstin,Symon,,płatnik,,,,Grodzisko
+786,[pleban],,,,20,,,,Lącki,,,płatnik,,,,Grodzisko
+793,prepozyt [szpitalny],,,,24,,,,Sbassin,,Św. Duch,płatnik,,,,Grodzisko
+787,[pleban],,,,24,,,,Pthaszkowo,,,płatnik,,,,Grodzisko
+770,[pleban],,,,12,,tak,Golancza Jezierczicze annexa eidem,Golancza,,,płatnik,,,,Wschowa
+788,[pleban],,,,24,,,,Parzinczewo,,,płatnik,,,,Grodzisko
+789,[pleban],,,,,,,[brak sumy i potwierdzenia wpłaty],Copanicza,,,płatnik,,,,Grodzisko
+790,[pleban],,,,24,,,,Coziczino,,,płatnik,,,,Grodzisko
+767,[pleban],,,,23,,tak,Thilendorf cum Lisnia,Thilendorf,,,płatnik,,,,Wschowa
+780,dekanat wiejski,,,,,,,Decanatus Grodzicensis,Grodzisko,,,,,,,Grodzisko
+768,[pleban],,,,,,,Thilendorf cum Lisnia,Lisnia,,,posiadacz drugiej parafii,,,,Wschowa
+808,altarzysta [kolegiacki],,,,24,,tak,,Sbassin,,,płatnik,,,,Grodzisko
+796,[pleban],,,,24,,,,Miechorzewo,,,płatnik,,,,Grodzisko
+797,[pleban],,,,12,,,,Siedliecz,,,płatnik,,,,Grodzisko
+798,[pleban],,,,,1,,,Conoiad,,,płatnik,,,,Grodzisko
+800,[pleban],,,2,,,tak,,Vielichowo,,,płatnik,,,,Grodzisko
+810,[pleban],,,,24,,tak,,Bucowiecz prope Grodzisko,,,płatnik,,,,Grodzisko
+801,[pleban],,,2,,,tak,,Kieblow,,,płatnik,,,,Grodzisko
+802,altarzysta,,,,34,,tak,Altaristae duo per grossos 17,Kieblow,,,płatnik,,,,Grodzisko
+803,[pleban],,,,12,,tak,,Colsko,,,płatnik,,,,Grodzisko
+804,[pleban],,,,24,,tak,,Copanicza,,,płatnik,,,,Grodzisko
+805,[pleban],,,,12,,tak,,Brodze,,,płatnik,,,,Grodzisko
+806,mansjonarz [kolegiacki],,,,,,tak,In Sbassin quinque mansionariae per 1 fertonem,Sbassin,,,płatnik,,,5,Grodzisko
+809,[pleban],,,,,,tak,,Ruchoczicze,,,płatnik,,,,Grodzisko
+811,altarzysta,,,,30,,tak,In Opalenicza duo altaria per 15 grossos,Opalenicza,,,płatnik,,,,Grodzisko
+812,[pleban],,,,12,,tak,,Kręsko,,,płatnik,,,,Grodzisko
+813,[pleban],,,,20,,tak,,Prochi,,,płatnik,,,,Grodzisko
+814,[pleban],,,,24,,tak,,Gnino,,,płatnik,,,,Grodzisko
+815,[pleban],,,,24,,tak,,Nalek,,,płatnik,,,,Grodzisko
+816,[pleban],,,,12,,tak,,Zelieczino,,,płatnik,,,,Grodzisko
+817,[pleban],,,,24,,tak,,Babimosth,,,płatnik,,,,Grodzisko
+818,[pleban],,,,12,,tak,,Raconawicze,,,płatnik,,,,Grodzisko
+825,[pleban],,,2,,,,,Lwovek,,,płatnik,,,,Wronki
+799,dekanat wiejski,,,,,,,Debita in eisdem,Grodzisko,,,,,,,Grodzisko
+837,[właściciel miejscowości],,,,,,,,Mosczieiewo,Lwowski,,właściciel miejscowości,,,,Wronki
+832,altarzysta kolegium,,,,15,,,,Lwovek,Albertus,,płatnik,,,,Wronki
+661,[właściciel miejscowości],,,,,,,"Vilkowia plebanus. Grossi 12 dimissi, ex ea ratione quia dominus Andreas Opalienski haeres, agros plebanales et cmetonum piscina inundavit, qua inundatione aquarum missalia a cmethonibus et plebano proventus sunt adempti ex agris eius",Vilkowia,Andreas Opalienski,,właściciel miejscowości,,,,Nowe Miasto
+822,dekanat wiejski,,,,,,"",Decanatus Vronicensis,Vronki,,,,,,,Wronki
+826,kolegium altarzystów,,,,,,,Altaristae ibidem,Lwovek,,,,,,,Wronki
+824,[pleban],,,,24,,,,Vithomisl,,,płatnik,,,,Wronki
+827,altarzysta kolegium,,,,17,,,,Lwovek,Albertus Conias,,płatnik,,,,Wronki
+829,altarzysta,,,,12,,,Symon ad sanctam Barbaram altarista,Lwovek,Symon,św. Barbara,płatnik,,,,Wronki
+833,altarzysta kolegium,,,,15,,,,Lwovek,Venceslaus,,płatnik,,,,Wronki
+834,prepozyt,,,,24,,,Praepositus Sanctae Trinitatis,Lwovek,,Św. Trójca,płatnik,,,,Wronki
+835,[pleban],,,4,,,,,Biesdrowo,,,płatnik,,,,Wronki
+819,pleban,,,,,2,tak,Grodzisko parochialis haereticorum. Quinque altaria. Praepositura. Haec omnia haereticus occupavit dominus castellanus Miedzirzecensis,Grodzisko,,,płatnik,,,,Grodzisko
+841,[właściciel miejscowości],,,,,,,"Chrzibsko. Missalia, maldrata , ab annis quatuor, de villa Mosczieiewo domini Lwowski, Niemierzewo domini Chelmski, Milno domini Ioannis Milienski, Isdebno domini Szlopanowski, Iablonowo domini Dziewierzewski, Kykowo dominae Kikowska, Srzodka domini Pawlowski, molendinatores, in omnibus istis villis, per haeredes istarum villarum solvere prohibentur",Iablonowo,Dziewierzewski,,właściciel miejscowości,,,,Wronki
+840,[właściciel miejscowości],,,,,,,"Chrzibsko. Missalia, maldrata , ab annis quatuor, de villa Mosczieiewo domini Lwowski, Niemierzewo domini Chelmski, Milno domini Ioannis Milienski, Isdebno domini Szlopanowski, Iablonowo domini Dziewierzewski, Kykowo dominae Kikowska, Srzodka domini Pawlowski, molendinatores, in omnibus istis villis, per haeredes istarum villarum solvere prohibentur",Isdebno,Szlopanowski,,właściciel miejscowości,,,,Wronki
+820,altarzysta,,,,,,tak,Grodzisko parochialis haereticorum. Quinque altaria. Praepositura. Haec omnia haereticus occupavit dominus castellanus Miedzirzecensis,Grodzisko,,,płatnik,,,,Grodzisko
+915,[pleban],,,,12,,tak,,Zambsko,,,płatnik,,,,Międzyrzecz
+904,[pleban],,,,,,tak,"Cursko Templewo [objęte klamrą] vacat, per fertonem",Templewo,,,płatnik,,,1,Międzyrzecz
+830,altarzysta kolegium,,,,26,,,Petrus Masiolek in loco Martini,Lwovek,Petrus Masiolek,,płatnik,,,,Wronki
+366,[właściciel miejscowości],,,,,,,"Praepositura Sancti Spiritus extra Szamothuli. Ambrosius plebanus Co[stensis] a praepositura.
+Grossi sex sunt ei dimissi, quia dominus Biechowski prohibuit suis subditis in villa Kampa fertones ab annis octo persolvere, licet excomunicantur",Kampa,Biechowski,,właściciel miejscowości,,,,Oborniki
+870,[patron parafii],,,,,,,Sirakow oppidum per dominum Procopium Broniewski haereticus institutus,Sirakow,Procopius Broniewski,,patron parafii,,,,Wronki
+848,[właściciel uposażenia],,,,,,,Altare ibidem in Vronki. Martinus a Stobnicza corporali iuramento praestito deposuit census trium marcarum per dominum Bucowieczki ab annis septem occupatum esse nec quicqu[am?] ei persolvitur,Vronki,Bucowieczki,,właściciel uposażenia,,,,Wronki
+868,[właściciel miejscowości],,,,,,,Czeracz domini Jancowski,Czeracz,Jancowski,,właściciel miejscowości,,,,Wronki
+844,[pleban],,,,24,,,,Duszniki,,,płatnik,,,,Wronki
+847,altarzysta,,,,,,,Altare ibidem in Vronki. Martinus a Stobnicza corporali iuramento praestito deposuit census trium marcarum per dominum Bucowieczki ab annis septem occupatum esse nec quicqu[am?] ei persolvitur; [brak sumy i potwierdzenia wpłaty],Vronki,Martinus a Stobnicza,,płatnik,,,,Wronki
+850,[pleban],,,4,,,,,Buk,,,płatnik,,,,Wronki
+866,dekanat wiejski,,,,,,,Parochiales per haereticos occupatae,Vronki,,,,,,,Wronki
+852,altarzysta kolegium,,,,16,,,,Buk,Albertus Czarnkowitha,,płatnik,,,,Wronki
+853,altarzysta kolegium,,,,16,,,Ioannes altarista,Buk,Ioannes,,płatnik,,,,Wronki
+854,altarzysta kolegium,,,,13,,,,Buk,Martinus Petri,,płatnik,,,,Wronki
+855,altarzysta kolegium,,,,13,,,,Buk,Martinus Clementis,,płatnik,,,,Wronki
+856,"altarzysta kolegium, kaznodzieja",,,,12,,,Petrus praedicator,Buk,Petrus,,płatnik,,,,Wronki
+857,[pleban],,,,24,,,,Lubosz,,,płatnik,,,,Wronki
+858,dekanat wiejski,,,,,,,Debita in eisdem,Vronki,,,,,,,Wronki
+859,[pleban],,,2,,,tak,,Vilczina,,,płatnik,,,,Wronki
+861,[pleban],,,,24,,tak,,Luthomie,,,płatnik,,,,Wronki
+863,[pleban],,,2,,,tak,,Camiona,,,płatnik,,,,Wronki
+864,[pleban],,,2,,,tak,,Bytin,,,płatnik,,,,Wronki
+865,[pleban],,,,24,,tak,,Zaiaczkowo,,,płatnik,,,,Wronki
+867,[pleban],,,2,,,tak,Czeracz domini Jancowski,Czeracz,,,płatnik,,,,Wronki
+881,altarzysta kolegium,,,,45,,tak,Tres altaristae per grossos 15,Pniewy,,,płatnik,,,,Wronki
+873,prepozyt,,,,24,,tak,Collegium Ostrorog,Ostrorog,,,płatnik,,,,Wronki
+885,[pleban],,,,,1,tak,Psarskie per dominum Lucam Jancowski,Psarskie,,,płatnik,,,,Wronki
+860,altarzysta,,,,,,tak,In Lwovek altare post Przetoczki vacat; [brak sumy i potwierdzenia wpłaty],Lwovek,Przetoczki,,"były płatnik, podatek",,,,Wronki
+862,[pleban],,,2,,,tak,,Othorowo,,,były płatnik,,,,Wronki
+843,[właściciel miejscowości],,,,,,,"Chrzibsko. Missalia, maldrata , ab annis quatuor, de villa Mosczieiewo domini Lwowski, Niemierzewo domini Chelmski, Milno domini Ioannis Milienski, Isdebno domini Szlopanowski, Iablonowo domini Dziewierzewski, Kykowo dominae Kikowska, Srzodka domini Pawlowski, molendinatores, in omnibus istis villis, per haeredes istarum villarum solvere prohibentur",Srzodka,Pawlowski,,właściciel miejscowości,,,,Wronki
+872,altarzysta,,,,,,tak,Altarista similiter,Sirakow,,,płatnik,,,,Wronki
+874,mansjonarz kolegium,,,4,,,tak,Quinque mansionariae per grossos 24,Ostrorog,,,płatnik,,,,Wronki
+877,[pleban],,,,12,,tak,Lewicze Ioannis Rosbiczki,Lewicze,,,płatnik,,,,Wronki
+878,[właściciel miejscowości],,,,,,,Lewicze Ioannis Rosbiczki,Lewicze,Ioannes Rosbiczki,,właściciel miejscowości,,,,Wronki
+882,prepozyt [szpitalny],,,,24,,tak,Praepositura Sancti Spiritus,Pniewy,,Św. Duch,płatnik,,,,Wronki
+880,"wojewoda brzeski, [właściciel uposażenia]",,,,,,,Pniewy per dominum Sthephanum palatinum  Brzestensem,Pniewy,Sthephanus,,właściciel uposażenia,,,,Wronki
+887,dekanat wiejski,,,,,,,Decanatus Miedzirzeczensis,Miedzirzecz,,,,,,,Międzyrzecz
+886,[właściciel uposażenia],,,,,,,Psarskie per dominum Lucam Jancowski,Psarskie,Luca Jancowski,,właściciel uposażenia,,,,Wronki
+871,mansjonarz kolegium,,,2.5,,,tak,Mansionariae quinque desolatae,Sirakow,,,płatnik,,,,Wronki
+888,altarzysta,,,,12,,,"",Squirzina,Laurentius Cziganek,,płatnik,,,,Międzyrzecz
+889,[pleban],,,,12,,,,Rokithno,,,płatnik,,,,Międzyrzecz
+869,[pleban],,,2,,,tak,Sirakow oppidum per dominum Procopium Broniewski haereticus institutus,Sirakow,,,płatnik,,,,Wronki
+876,[pleban],,,2,,,tak,Quilcz per haeredes desolata,Quilcz,,,płatnik,,,,Wronki
+900,[pleban],,,4,,,tak,Miedzirzecz oppidum,Miedzirzecz,,,płatnik,,,,Międzyrzecz
+898,[pleban],,,,,1,,,Pczew,,,płatnik,,,,Międzyrzecz
+899,dekanat wiejski,,,,,,,Occupata per haereticos ac per alios debita,Miedzirzecz,,,,,,,Międzyrzecz
+907,[pleban],,,,12,,tak,,Chelmsko,,,płatnik,,,,Międzyrzecz
+901,altarzysta kolegium,,,,,,tak,Altaristae in Miedzirzecz quinque desolati,Miedzirzecz,,,płatnik,,,,Międzyrzecz
+908,[pleban],,,,12,,tak,,Pieski,,,płatnik,,,,Międzyrzecz
+909,[pleban],,,,,1,tak,,Przetoczno,,,płatnik,,,,Międzyrzecz
+912,[pleban],,,,12,,tak,,Osieczko,,,płatnik,,,,Międzyrzecz
+902,[pleban],,,,12,,tak,,Sarzina Bursa,,,płatnik,,,,Międzyrzecz
+913,[pleban],,,,12,,tak,,Antiqua Curia,,,płatnik,,,,Międzyrzecz
+914,[pleban],,,,12,,tak,,Bledzew,,,płatnik,,,,Międzyrzecz
+903,[pleban],,,,,,tak,"Cursko Templewo [objęte klamrą] vacat, per fertonem",Cursko,,,płatnik,,,1,Międzyrzecz
+910,[pleban],,,,12,,tak,,Lankpol,,,płatnik,,,,Międzyrzecz
+917,[pleban],,,,,,,,Gorunsko,,,posiadacz drugiej parafii,,,,Międzyrzecz
+919,[pleban],,,,24,,tak,,Choczissewo,,"",płatnik,,,,Międzyrzecz
+930,dziekan kolegiacki,,,,24,,,,Srzoda,,,płatnik,,,,
+931,[kanonik kolegiacki],,,,24,,,,Srzoda,Laurentius Cziganek,,płatnik,,,,
+932,"[kanonik kolegiacki], kaznodzieja",,,,24,,,Albertus antiquus praedicator,Srzoda,Albertus,,płatnik,,,,
+933,[kanonik kolegiacki],,,,24,,,,Srzoda,Ioannes Razek,,płatnik,,,,
+934,[kanonik kolegiacki],,,,24,,,,Srzoda,Franciscus,,płatnik,,,,
+935,[kanonik kolegiacki],,,,24,,,,Srzoda,Vitus,,płatnik,,,,
+936,[kanonik kolegiacki],,,,24,,,,Srzoda,Paulus Pawlowski,,płatnik,,,,
+939,altarzysta kolegiacki,,,,20,,,,Srzoda,Martinus a Labissin,,płatnik,,,,
+940,altarzysta kolegiacki,,,,18,,,Lazarus altarista,Srzoda,Lazarus,,płatnik,,,,
+941,altarzysta kolegiacki,,,,8,,,,Srzoda,Andreas Quaczka,,płatnik,,,,
+942,altarzysta kolegiacki,,,,15,,,,Srzoda,Ioannes Sberkowski,,płatnik,,,,
+943,altarzysta kolegiacki,,,,30,,,,Srzoda,Laurentius Cziganek,,płatnik,,,,
+944,altarzysta kolegiacki,,,,8,,,,Srzoda,Iacobus a Srzoda,,płatnik,,,,
+920,[pleban],,,,12,,tak,,Bucowiecz,,,płatnik,,,,Międzyrzecz
+922,[pleban],,,,12,,tak,,Rokitno,,,płatnik,,,,Międzyrzecz
+923,[pleban],,,,12,,tak,,Chanczicze,,,płatnik,,,,Międzyrzecz
+924,[pleban],,,,12,,tak,,Calana,,,płatnik,,,,Międzyrzecz
+925,[pleban],,,,12,,tak,,Policzko,,,płatnik,,,,Międzyrzecz
+926,[pleban],,,,12,,tak,,Nova Wies,,,płatnik,,,,Międzyrzecz
+927,[pleban],,,,12,,tak,,Grochowo,,,płatnik,,,,Międzyrzecz
+916,[pleban],,,,12,,tak,,Thyczina,,,płatnik,,,,Międzyrzecz
+947,altarzysta kolegiacki,,,,14,,,Franciscus altarista,Srzoda,Franciscus,,płatnik,,,,
+949,altarzysta kolegiacki,,,,15,,,,Srzoda,Paulus Potluczek,,płatnik,,,,
+950,altarzysta kolegiacki,,,,16,,,,Srzoda,Paulus de Gostin,,płatnik,,,,
+951,altarzysta kolegiacki,,,,15,,,,Srzoda,Hipolitus Strzalkowski,,płatnik,,,,
+929,kapituła kolegiacka,,,,,,,Collegiata ecclesia in Srzoda,Srzoda,,,,,,,
+952,altarzysta kolegiacki,,,,16,,,Florianus altarista,Srzoda,Florianus,,płatnik,,,,
+953,altarzysta kolegiacki,,,,7.5,,,,Srzoda,Albertus Bacca,,płatnik,,,,
+954,altarzysta kolegiacki,,,,15,,,,Srzoda,Stanislaus Karsniczki,,płatnik,,,,
+956,prepozyt kolegiacki,,,6,,,tak,Praepositus in Srzoda,Srzoda,,,płatnik,,,,
+963,opat,,,32,,,,,Lublinensis,,,płatnik,,,,
+964,opat,,,12,,,,,Przemethensis,,,płatnik,,,,
+965,opat,,,8,,,,,Obrensis,,,płatnik,,,,
+966,opat,,,6,,,,,Bledzowiensis,,,płatnik,,,,
+967,opat,,,10,,,,[brak potwierdzenia wpłaty],Paradisiensis,,,płatnik,,,,
+918,[pleban],,,,12,,tak,,Sarnasziel,,,płatnik,,,,Międzyrzecz
+960,altarzysta kolegiacki,,,,,,tak,,Srzoda,Michael Zieminski,,płatnik,,,,
+44,"[kanonik katedralny], teolog",4,25,2,,,,Ioannes Theologus. Proventus censuales in villa Jankowo. Census a cmethonibus et molendino aquatili incluso. Habet marcas usuales viginti quinque grossos duodecim,Posnaniensis,Ioannes,,płatnik,12,,,
+969,prepozyt szpitalny,,,,,,,Iacobus praepositus hospitalis cui altare unitum est; [zapewne wpłata od dwóch beneficjów],Costrzin,Iacobus,,posiadacz prepozytury szpitalnej,,,,Poznań
+961,"altarzysta kolegiacki, organista",,,,,,tak,Lucas organista,Srzoda,Lucas,,płatnik,,,,
+244,mansjonarz kolegium,,,,24,,,Mathias mansionarius,Bninensis,Mathias,,płatnik,,,,Poznań
+362,altarzysta kolegiacki,,,,,,,Valentinus baccalaureus in loco Martini,Szamotuli,Martinus,,były płatnik,,,,Oborniki
+921,[pleban],,,,12,,tak,,Gorzicze,,,płatnik,,,,Międzyrzecz
+962,opactwa [w diecezji poznańskiej],,,,,,,Abbates,[Posnania],,,,,,,
+93,altarzysta katedralny,,,,,,tak,"De fundo Iariski villam eiusdem altaris domini Splawsczi occupaverunt, domini de Ostrorog collatores laico contulerunt",Posnaniensis,,,płatnik,,,,
+836,[pleban],,,4,,,,"Chrzibsko. Missalia, maldrata , ab annis quatuor, de villa Mosczieiewo domini Lwowski, Niemierzewo domini Chelmski, Milno domini Ioannis Milienski, Isdebno domini Szlopanowski, Iablonowo domini Dziewierzewski, Kykowo dominae Kikowska, Srzodka domini Pawlowski, molendinatores, in omnibus istis villis, per haeredes istarum villarum solvere prohibentur",Chrzibsko,,,płatnik,,,,Wronki
+207,kapituła kolegiacka,,,,,,,Collegium sanctae Mariae Magdalenae in Posnania,Posnania,,św. Maria Magdalena,,,,,
+958,[kanonik kolegiacki],,,,24,,tak,Post mortem Leonardi,Srzoda,Leonardus,,"były płatnik, podatek",,,,
+576,pleban,,,,,,,Symon plebanus in Ridzina,Ridzina,Symon,,posiadacz parafii,,,,Śrem
+957,kustosz kolegiacki,,,,24,,tak,Custos Skrzetuski,Srzoda,Skrzetuski,,płatnik,,,,
+765,altarzysta kolegium,,,,,,,"Altaristae ibidem. Altaristae quondam numero triginta tres in utraque ecclesia, tam parrochiali quam Corporis Christi, quorum proventus proconsul cum consulibus pro se usurpaverunt et nemo ex eis inhabitat. Haereticus pro plebano habetur",Wschowa,,Boże Ciało,drugie kolegium altarzystów,,,,Wschowa
+621,kolegium altarzystów,,,,,,"",In Costen altaristae,Costen,"",,,,,,Kościan
+30,biskup poznański,,,200,,,,"Reverendissimus in Christo pater et dominus dominus Andreas Czarnkowski Dei gratia episcopus Posnaniensis, de suis proventibus, per manus venerabilis domini Foelicis Pomorski in Cziazem plebani et sui thesaurarii solvit et numeravit in moneta per grossos triginta computan[da] florenos ducentos.",Posnaniensis,Andreas Czarnkowski,,płatnik,,,,
+67,[kanonik katedralny],,,2,,,,,Posnaniensis,Ioannes Bielinski,,płatnik,,,,
+972,prepozyt [szpitalny],,,,,,tak,Grodzisko parochialis haereticorum. Quinque altaria. Praepositura. Haec omnia haereticus occupavit dominus castellanus Miedzirzecensis,Grodzisko,,,płatnik,,,,Grodzisko
+215,prebendarz kolegium,,,,,,,"Ioannes Piwo corporali iuramento deposuit, quod census in Ossieczna marcae sex dominus Andreas a Gorca ab annis sex occupavit, nec quicqu[am?] illi persolvit; [brak potwierdzenia wpłaty]; [funkcja na podstawie nagłówka w rękopisie A: «Ad sanctum Stanislaum in Posnania praebendarii»]",Posnania,Ioannes Piwo,św. Stanisław,płatnik,,,,
+973,[właściciel uposażenia],,,,,,,"Ioannes Piwo corporali iuramento deposuit, quod census in Ossieczna marcae sex dominus Andreas a Gorca ab annis sex occupavit, nec quicqu[am?] illi persolvit",Ossieczna,Andreas a Gorca,,właściciel uposażenia,,,,
